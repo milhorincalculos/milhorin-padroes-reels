@@ -157,6 +157,119 @@ do Framework #1 — advertência em vez de mistério aberto. Continuar
 monitorando em vídeos futuros antes de generalizar como padrão fixo do
 criador.
 
+### Estrutura nativa — Hanah Franklin (3 vídeos: 2 análise de criador + 1 storytelling pessoal)
+
+**Análise de criador** (professor-cronicas, arthur-paek): gancho de choque →
+**bloco de credenciais/autoridade do analisado** (elemento fixo, confirmado
+nos 2 vídeos, antes até da promessa) → promessa → 2-3 princípios (nem sempre
+numerados de forma paralela — só 2 dos 3 no vídeo do professor-cronicas
+recebem número falado) → cada princípio fecha com conselho direto ao
+espectador, **sem cliffhanger** → crítica-vira-oferta → CTA. Em arthur-paek
+aparece também um recurso de **objeção antecipada e resposta com prova
+pessoal** dentro de um bloco. Fit com Framework #1: parcial nos dois — falta
+ponta solta/suspense (o formato não precisa de mistério, o valor já é
+entregue direto) e o bloco de credenciais é um elemento extra não previsto.
+
+**Storytelling pessoal** (tatuagem): arco in medias res → meta pública →
+complicação (hater) → confissão de vulnerabilidade → 3 pares antes/depois
+espelhados e crescentes → símbolo (tatuagem) + virada "eu"→"você também é" →
+mensagem universalizante → CTA de identidade. Reforça P8 (estrutura
+espelhada) com um 2º exemplo do mesmo mecanismo de "checklist/pares
+repetidos com resultado visual diferente". Fit com Framework #1: diverge de
+verdade — sem promessa aberta explícita, sem blocos numerados, suspense é
+emocional (não estrutural), solução fundida ao clímax.
+
+**Novo candidato de padrão**: "bloco de credenciais do analisado" — confirmado
+2/2 vídeos do formato `análise de criador` deste base (mesma criadora). Vale
+generalizar como elemento fixo desse formato quando surgir um 3º exemplo
+(de outra criadora).
+
+### Estrutura nativa — Jun Yuh (3 vídeos, 3 lógicas diferentes)
+
+**storytelling** (2013→2024, fotos+Skyfall, sem fala): antes/depois
+espelhado — 3 traumas empilhados, marcador de virada, checklist "4 daily
+wins" **sem** check, escalada de conquistas, e a MESMA checklist repetida
+**com ✅** no final, fechando no reencontro com a mãe. Reforça P8 (2º
+exemplo, junto com o da Hanah/tatuagem) — a "checklist espelhada repetida
+com marca visual de check" é a versão mais literal do mecanismo P8
+encontrada até agora. Fit: parcial — gancho/blocos/CTA existem, mas a
+promessa é 100% implícita e as "pontas soltas" são marcadores de capítulo
+(P9), não ganchos de curiosidade.
+
+**metacognição** ("não é QI"): corrente lógica única e contínua (contradiz
+crença → redefine → analogia com gênios → ponte pra storytelling → pitch →
+CTA), **sem blocos nem pontas soltas distintas** — o vídeo inteiro é um
+argumento só. Esta é a MESMA forma nativa do vídeo lo-fi do Leandro Ladeira
+(mulheres-digital, ver abaixo) — os dois já estavam agrupados em P13 (tese
+sozinha sustenta o vídeo), e agora sabemos por quê: ambos têm a mesma
+estrutura nativa de "corrente lógica contínua sem separação editorial em
+blocos". Vale renomear esse mecanismo estrutural como parte do P13. Fit:
+diverge do Framework #1 por natureza — não há como isolar 2 blocos e 2
+pontas soltas numa corrente única.
+
+**storytelling secreto** (framework "storytelling wheel"): **o melhor
+encaixe no Framework #1 de toda a base de 18 vídeos** — gancho, promessa
+explícita, Bloco 1 (LIFE), transição, Bloco 2 (3 profundidades/3 porquês),
+demonstração ao vivo, solução, prova social, CTA. Só diverge porque a
+"ponta solta" é um conector de tópico (não suspense) e há 2 elementos extra
+não previstos no framework: **demonstração ao vivo da técnica** e **prova
+social encaixada antes do CTA** — ambos candidatos a táticas reutilizáveis,
+vale testar em roteiros do nicho jurídico (mostrar o cálculo sendo feito ao
+vivo + prova social logo antes de pedir a ação).
+
+### Estrutura nativa — Leandro Ladeira (4 vídeos, 4 lógicas diferentes)
+
+**casa dos sonhos** (poema narrado sobre b-roll): tour sensorial contínuo
+(casa+família fundidos, sem separação, ~60% do vídeo) → virada argumentativa
+única que já funciona como ponta-solta+solução fundidas. Fit: parcial —
+gancho/CTA batem, mas o meio é um bloco único, não dois blocos com ponta
+solta real. **Novo candidato**: "poema-tour contínuo + virada argumentativa
+única" — estrutura própria do sub-formato `editado (poema narrado sobre
+b-roll)` já catalogado na tabela de formatos.
+
+**ideias inimagináveis**: gancho → reflexão-promessa explícita → Bloco 1
+(história pessoal com números) → transição → Bloco 2 = **lista serial de 6
+exemplos acelerando de ritmo** → solução/regra prática → CTA de curtida. O
+**2º melhor encaixe no Framework #1** de toda a base (empatado logo atrás do
+storytelling-secreto do Jun Yuh). **Novo candidato**: "bloco-lista
+acelerada" (mini-exemplos seriais dentro de um bloco só, ritmo crescente) —
+reforça P4 (números empilhados) com uma estrutura de entrega mais específica.
+
+**meme (IA face-swap)**: arco cômico único de 3 partes — setup enganoso
+(demo "séria") → punchline/reveal que é simultaneamente clímax E solução →
+CTA. Gancho e promessa se fundem, bloco+ponta-solta+solução se fundem numa
+virada só. Fit: diverge por natureza do formato `meme` — a estrutura de 9
+partes pressupõe um meio desenvolvido que o formato meme não tem espaço pra
+ter. **Novo candidato**: "arco cômico de 3 partes", estrutura própria do
+formato `meme` já catalogado.
+
+**mulheres no digital** (yapcontent-lofi): monólogo contínuo sem cortes —
+tese = gancho+promessa fundidos → argumentação da dor em 2 ângulos sem
+separação editorial → pivô lógico (não suspensivo) → lista rápida de 6
+nomes sem prova numérica → CTA duplo. Mesma forma nativa da metacognição do
+Jun Yuh (ver acima) — os dois reforçam P13 com a mesma explicação
+estrutural: retenção 100% via conteúdo/tese, zero dependência de edição ou
+blocos separados.
+
+### Achado consolidado: quantos dos 18 vídeos realmente seguem o Framework #1?
+
+Depois de reavaliar os 18 com a estrutura nativa em primeiro lugar (em vez
+de forçar o encaixe), só **2 de 18** batem de perto com "Ganchismo →
+Promessa aberta → Bloco 1 → Ponta solta 1 → Bloco 2 → Ponta solta 2 →
+Solução → CTA": `jun-yuh-storytelling-secreto` e
+`leandroladeiran-ideias-inimaginaveis` — não por acaso, os 2 únicos vídeos
+desta base que são tutoriais/roteiros de ensino estruturados com essa
+intenção deliberada. Todos os outros 16 têm uma lógica nativa diferente:
+listas sem narrativa (invisível-internet), correntes lógicas contínuas sem
+blocos (metacognição, mulheres-digital), arcos cômicos de 3 partes
+fundidas (meme-ia, caixinha-humor do Maycon), tours sensoriais contínuos
+(casa-dos-sonhos), estruturas de análise-de-criador com bloco de
+credenciais (professor-cronicas, arthur-paek), ou a estrutura própria do
+Bruno Belíssimo já detalhada acima. **Conclusão prática**: o Framework #1 é
+útil como uma das lentes de comparação, mas descrever a estrutura nativa
+primeiro é indispensável — a maioria dos vídeos que performam bem nesta
+base não segue esse molde.
+
 ## Skills de produção — cobertura por formato
 
 Checar aqui antes de reanalisar do zero qual skill reproduziria um formato
