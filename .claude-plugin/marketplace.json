@@ -1,0 +1,17 @@
+{
+  "name": "padroes-reels",
+  "metadata": {
+    "description": "Skill interna: assiste Reels/vídeos curtos, gera relatório de estrutura/formato/desempenho e acumula uma base de padrões reutilizável."
+  },
+  "owner": {
+    "name": "milhorincalculos"
+  },
+  "plugins": [
+    {
+      "name": "padroes-reels",
+      "description": "Analisa um Reel/vídeo (URL ou local), classifica formato, mapeia a estrutura de retenção e atualiza a base de padrões acumulada.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

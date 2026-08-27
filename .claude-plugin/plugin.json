@@ -1,0 +1,10 @@
+{
+  "name": "padroes-reels",
+  "version": "0.1.0",
+  "description": "Analisa Reels/vídeos curtos e acumula uma base viva de padrões de estrutura, formato e retenção para conteúdo jurídico de direito do trabalho.",
+  "author": {
+    "name": "milhorincalculos"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["reels", "video", "estrutura", "retenção", "direito-do-trabalho", "conteúdo"]
+}
