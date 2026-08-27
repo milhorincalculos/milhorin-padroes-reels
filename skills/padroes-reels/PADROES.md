@@ -74,6 +74,26 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
 | `tutorial/passo-a-passo` | 1 (Bruno Belíssimo/como ficar invisível na internet) | Lista de ações concretas, cada uma com prova visual (print/objeto real) |
 | `notícia/newsjacking` | 1 (Bruno Belíssimo/IA apagando as estrelas) | Caso real nomeado e verificável (empresa, local), prova instrumentada (medição real), cenário fora do padrão do canal |
 
+## Skills de produção — cobertura por formato
+
+Checar aqui antes de reanalisar do zero qual skill reproduziria um formato
+(ver Passo 5b do `SKILL.md`). Atualizar a cada vídeo novo — reforçar contador
+se o formato já tinha skill mapeada, ou adicionar linha nova.
+
+| Formato | Skill que reproduz | Observação |
+|---|---|---|
+| `editado` (talking-head + b-roll, corte literal por palavra) | **nenhuma — candidata a skill nova** | Confirmado em 6 vídeos (P1), o mais confirmado da base. Gramática própria (corte a cada 1-3s ilustrando a palavra dita, analogia simples, prova numérica empilhada) — não é monólogo cru (`yap`), nem blocos lo-fi (`lofi-viral`), nem escalada de fura-bolha. Prioridade #1 de skill nova. |
+| `editado` (storytelling fotográfico, sem voz) | nenhuma — só 1 exemplo, aguardar mais dados | Fotos de arquivo + texto, zero narração — gramática de edição, não de fala |
+| `editado` (poema narrado sobre b-roll) | nenhuma — só 1 exemplo, aguardar mais dados | Narração literária sem talking-head |
+| `análise de criador` | **nenhuma — candidata a skill nova (2º lugar)** | 2 confirmações, mesma criadora repetiu o molde — formato sistemático/repetível, mas é comentário/crítica de terceiro, não geração de roteiro original |
+| `storytelling pessoal` (talking-head) | `milhorin-yap-content` (parcial) | Mistura teoria+vulnerabilidade — yap cobre a encenação crua, mas não o arco emocional de fechamento (P10); avaliar se vale um bloco extra em `yap-content` em vez de skill nova |
+| `yapcontent-lofi` (opinião longa) | `milhorin-yap-content` / `milhorin-lofi-viral` | Já é o caso de uso central dessas duas skills |
+| `meme` | nenhuma — só 1 exemplo, aguardar mais dados | Sequestro de trend + reviravolta via IA, muito dependente de ferramenta externa (face-swap) |
+| `história com provas` | `milhorin-fura-bolha` (parcial) | Escalada narrativa com prova bate com a estrutura de fura-bolha, mas fura-bolha hoje não instrui "print de prova de terceiro" explicitamente — possível ajuste em vez de skill nova |
+| `caixinha-de-pergunta + humor` | nenhuma — só 1 exemplo, aguardar mais dados | Único vídeo do nicho jurídico até agora (Maycon Cardoso) — aguardar mais exemplos do nicho antes de generalizar contra o framework completo (P11) |
+| `tutorial/passo-a-passo` | nenhuma — só 1 exemplo, aguardar mais dados | Lista de ações com prova visual cada uma — mais perto de `fura-bolha` (CTA de salvamento já catalogado) que dos outros 3 |
+| `notícia/newsjacking` | nenhuma — só 1 exemplo, aguardar mais dados | Caso real nomeado + prova instrumentada |
+
 ## Padrões confirmados (por quantos vídeos)
 
 ### P1 — Edição literal por palavra (confirmado: 6 vídeos — padrão mais confirmado da base)

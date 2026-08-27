@@ -118,6 +118,32 @@ próximo roteiro. Evitar generalidade ("boa edição"); ser específico
 ("cortar a cada 2-3s no bloco de contexto, antes de travar no bloco de
 solução").
 
+## Passo 5b — qual skill de produção reproduz esse formato
+
+Este passo existe porque analisar padrão sem ligar pra produção é trabalho
+perdido — a missão é criar conteúdo, não só cataloga-lo. Perguntar sempre:
+**"se eu fosse pedir pra reproduzir esse estilo agora, qual skill eu chamaria?"**
+
+- Comparar o formato do vídeo analisado contra as skills de produção já
+  existentes (`milhorin-hooks`, `milhorin-lofi-viral`, `milhorin-fura-bolha`,
+  `milhorin-yap-content` — conferir a seção "Skills de produção — cobertura
+  por formato" em `PADROES.md` pra não reinventar essa comparação toda vez).
+- Se uma delas cobre bem, registrar qual e **o que especificamente vale a
+  pena otimizar nela** com esse aprendizado (ex: "reforça o Grupo I de
+  `milhorin-hooks`" ou "vira novo bloco em `milhorin-lofi-viral`") — não
+  basta apontar a skill, tem que apontar o ajuste concreto.
+- Se nenhuma cobre bem — a gramática de produção é realmente diferente
+  (ex: edição literal por palavra do Bruno Belíssimo, que não é nem
+  monólogo cru, nem blocos lo-fi, nem escalada de fura-bolha) — sinalizar
+  isso como **candidata a skill nova**, com o motivo específico (o que a
+  torna distinta das 4 existentes) e quantos vídeos já confirmam esse
+  formato. Não criar a skill sozinho aqui — só sinalizar; a criação em si
+  segue o fluxo já usado (scratch → `skill-creator` → pacote `.skill` →
+  `SendUserFile`), só depois de confirmação do usuário.
+- Atualizar a seção "Skills de produção — cobertura por formato" em
+  `PADROES.md` com o resultado dessa análise (reforçando contador se já
+  existia, ou adicionando linha nova).
+
 ## Passo 6 — salvar o relatório
 
 Criar `D:\Claude\Contents\relatorios\<slug>.md` (slug = data + fonte curta, ex:
@@ -160,6 +186,22 @@ Criar `D:\Claude\Contents\relatorios\<slug>.md` (slug = data + fonte curta, ex:
 
 - <bullet acionável>
 - <bullet acionável>
+
+## Skill de produção sugerida
+
+<Qual das skills existentes (`milhorin-hooks` / `milhorin-lofi-viral` /
+`milhorin-fura-bolha` / `milhorin-yap-content`) reproduz esse estilo, e o
+ajuste concreto que esse vídeo sugere nela — OU "nenhuma cobre bem" +
+justificativa, sinalizando candidata a skill nova (ver Passo 5b).>
+
+## Transcrição completa
+
+<Colar aqui a transcrição inteira retornada pelo `watch` (com timestamps,
+se o `--detail` usado tiver retornado). Se o vídeo não teve transcrição
+(sem fala, ou créditos de Whisper esgotados no momento da análise),
+registrar isso explicitamente em vez de deixar em branco — nunca omitir
+a seção. Guardar a transcrição aqui evita ter que reprocessar o vídeo se
+for preciso reconsultar o que foi dito.>
 ```
 
 Depois, adicionar uma linha em `relatorios/_INDICE.md` (criar se não existir):
