@@ -18,7 +18,20 @@ Este `PADROES.md` é o padrão PROFUNDO (poucos vídeos, estrutura completa).
   contradiz) com dado quantitativo real — citar isso reforça a confiança do
   padrão. Ver Passo 7 do `SKILL.md`.
 
-## Framework de estrutura (padrão-ouro)
+## Framework de referência #1 — "Ganchismo → Promessa → CTA"
+
+**Importante (correção de método):** este framework foi dado pelo usuário como
+**um exemplo** de como algumas pessoas estruturam Reels — não é padrão-ouro
+obrigatório nem molde pra encaixar todo vídeo à força. Cada vídeo analisado
+deve primeiro ter sua **estrutura nativa** documentada (a sequência real de
+blocos daquele vídeo específico, do jeito que ela realmente é — mesmo que não
+bata com nenhum framework catalogado ainda). Só depois, opcionalmente, comparar
+essa estrutura nativa contra os frameworks já catalogados aqui (este e o de
+`milhorin-fura-bolha`, ver seção "Estruturas nativas identificadas" abaixo) pra
+ver se bate, bate parcialmente, ou é de fato diferente. Ver Passo 3 do
+`SKILL.md`. O objetivo de longo prazo é ter várias estruturas catalogadas e
+achar quais delas se repetem em quais tipos de vídeo/criador — não forçar tudo
+numa estrutura só.
 
 ```
 Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta solta 1
@@ -73,6 +86,76 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
 | `caixinha-de-pergunta + humor` | 1 (Maycon Cardoso, **advogado criminalista** — único do nicho jurídico até agora) | "Recusa cômica" que entrega a resposta completa disfarçada de negativa — ver P11 |
 | `tutorial/passo-a-passo` | 1 (Bruno Belíssimo/como ficar invisível na internet) | Lista de ações concretas, cada uma com prova visual (print/objeto real) |
 | `notícia/newsjacking` | 1 (Bruno Belíssimo/IA apagando as estrelas) | Caso real nomeado e verificável (empresa, local), prova instrumentada (medição real), cenário fora do padrão do canal |
+
+## Estruturas nativas identificadas (por criador/formato)
+
+Catálogo crescente de estruturas narrativas realmente observadas (não
+forçadas em um framework prévio). Cada entrada é a sequência de blocos que
+o vídeo *de fato* segue — usar como segunda estrutura de referência, ao
+lado do Framework #1 acima e do modelo Modo A/D do `milhorin-fura-bolha`.
+
+### Estrutura nativa — Bruno Belíssimo (confirmada em 7 vídeos)
+
+Analisando os 7 vídeos deste criador com transcrição completa (quântico,
+fractal/universo, robocop, neurônios, texto-de-IA, invisível-internet,
+IA-apagando-estrelas), a estrutura real que se repete **não é** nem o
+Framework #1 nem o modelo de reversão/2-atos do `milhorin-fura-bolha` — é
+uma terceira estrutura própria:
+
+```
+Gancho de choque/hipérbole (nem sempre reversão de expectativa)
+→ Bloco 1: caso/fato concreto nomeado, com prova
+→ [opcional] comando direto ao espectador como transição de escalada
+→ Bloco 2: escalada/generalização (do caso pro padrão maior/impacto amplo)
+→ [opcional] ponte filosófica/espiritual ou de cultura pop
+→ Fechamento (varia — ver abaixo, não é uma fórmula única)
+→ CTA de seguir (posição varia — meio OU fim, nem sempre só no fim)
+→ Assinatura pessoal ("Amo você") — ver P19
+```
+
+**Checagem de conformidade com `milhorin-fura-bolha` (7 elementos + regra de
+CTA só no fim), vídeo a vídeo:**
+
+| Vídeo | Gancho é reversão pura? | Fecha com pergunta SEM responder? | CTA só na última frase? |
+|---|---|---|---|
+| quântico (Microsoft) | Parcial (autoridade/choque, não "parecia X era Y") | Sim (piada-pergunta GTA6) | **Não** — CTA de seguir no meio (~0:40), fecha com piada |
+| fractal/universo | Não (hipérbole "descoberta mais importante") | **Não** — pergunta seguida de resposta explícita ("Coincidência? Acho que não... Ninguém copiou ninguém") | **Não** — fecha com cross-promo pro próprio vídeo fixado + "Amo você" |
+| robocop/robôs | Parcial (piada de duplo sentido) | Não — pede debate explícito (P18), não deixa pergunta no ar | **Não** — CTA duplo, um no meio + um no fim |
+| neurônios/computador | **Sim** — bate quase perfeito ("parecia computador normal, é feito de cérebro") | Não — vira desafio de negócio ("sua empresa não tem desculpa...") | Sim — só no fim |
+| texto-de-IA tem forma | Não (hipérbole "coisa mais louca que eu vi") | Não | Sim — só no fim |
+| invisível na internet | Parcial (contradiz "modo anônimo protege") | Não — é tutorial/lista, fecha com frase de valor | Sim — só no fim |
+| IA apagando as estrelas | Parcial (pergunta chocante de abertura) | **Sim** — pergunta genuinamente aberta ("precisa de tudo isso?") antes do CTA | Quase — CTA no fim, mas junto de reflexão pessoal/"Amo você", não isolado |
+
+**Conclusão:** só 2 dos 7 vídeos (neurônios, apagando-estrelas) chegam perto
+da conformidade real com a estrutura do `milhorin-fura-bolha`. Os outros 5
+divergem de formas específicas e recorrentes — não é ruído aleatório, é a
+assinatura própria do criador. `milhorin-fura-bolha` continua sendo a skill
+certa pra **roteiro/narrativa** deste estilo (ver correção de P1/cobertura
+acima — a analogia do lápis citada literalmente na skill veio exatamente
+deste tipo de vídeo), mas o padrão-ouro dela descreve um **subconjunto**
+mais estreito e mais "arrumado" do que o criador realmente faz na prática.
+Vale revisitar as regras de posição do CTA e de fechamento sem resposta à
+luz desses 7 exemplos reais.
+
+### P19 — Assinatura pessoal "Amo você" no fechamento (confirmado: 6 de 7 vídeos do mesmo criador)
+Bruno Belíssimo fecha 6 dos 7 vídeos analisados com a mesma frase pessoal
+("Amo você" / "Amo você!"), independente do tipo de fechamento (piada,
+reflexão, CTA de lista). Só o vídeo do chip quântico (Microsoft) não tem —
+fecha só com a piada do GTA6. Funciona como assinatura de conexão parasocial,
+distinta de qualquer CTA funcional — não pede nada, só declara afeto. Testar
+se um fechamento pessoal semelhante (não necessariamente a mesma frase) tem
+efeito parecido no nicho jurídico, sem soar fora de tom pra Mário/Fred.
+
+### P20 — Comando direto ao espectador como dobradiça de escalada (confirmado: 2 vídeos)
+Em vez de reticências ("mas isso nem é o pior..."), o criador às vezes usa um
+comando imperativo dirigido explicitamente a quem assiste pra sinalizar que
+a intensidade vai aumentar: "Senta direito porque isso só vai piorar e eu só
+tô começando", "Presta atenção", "Segura aí" (fractal/universo, 3
+ocorrências) e "Presta atenção nessa paz, nesse rio aqui" (IA apagando as
+estrelas, na abertura). É uma variação mais direta/pessoal da "ponta solta"
+do Framework #1 — advertência em vez de mistério aberto. Continuar
+monitorando em vídeos futuros antes de generalizar como padrão fixo do
+criador.
 
 ## Skills de produção — cobertura por formato
 

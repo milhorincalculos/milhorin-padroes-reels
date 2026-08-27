@@ -77,8 +77,28 @@ registrar quais aparecem é, em si, um dado (ver `PADROES.md`).
 
 ## Passo 3 — mapear a estrutura de retenção
 
-Framework de referência (definido pelo usuário, é o padrão-ouro pra avaliar
-qualquer vídeo, próprio ou de terceiro):
+**Ordem obrigatória: estrutura nativa primeiro, framework depois.** O
+"Framework de referência #1" abaixo (Ganchismo→Promessa→...→CTA) foi dado
+pelo usuário só como **um exemplo** de como algumas pessoas montam a
+estratégia de um Reels — não é gabarito pra encaixar todo vídeo à força.
+Antes de qualquer coisa, descrever a **estrutura nativa** do vídeo: a
+sequência real de blocos, na ordem em que ela realmente acontece, com as
+próprias palavras do vídeo — mesmo que essa sequência não bata com nenhum
+framework catalogado ainda. Só depois de documentar a estrutura nativa,
+comparar (opcionalmente) contra os frameworks já em `PADROES.md` (Framework
+#1 e o modelo de estrutura do `milhorin-fura-bolha`, ver seção "Estruturas
+nativas identificadas") e registrar onde bate, bate parcialmente, ou diverge.
+**Nunca pular a etapa nativa e ir direto pro encaixe no framework** — é
+assim que se perde uma estrutura genuinamente nova (ver o caso Bruno
+Belíssimo: parecia fura-bolha à primeira vista, mas a estrutura real —
+comandos diretos ao espectador, CTA em posição variável, fechamento com
+assinatura pessoal — é a dele própria, não a do framework).
+
+O objetivo de longo prazo é acumular várias estruturas nativas em
+`PADROES.md` e descobrir quais se repetem em quais tipos de vídeo/criador —
+não forçar tudo em uma estrutura só.
+
+**Framework de referência #1** (um dos possíveis, não o único):
 
 ```
 Ganchismo → Promessa aberta → Introdução (até ~10s) → Bloco 1 → Ponta solta 1
@@ -101,9 +121,12 @@ Ganchismo → Promessa aberta → Introdução (até ~10s) → Bloco 1 → Ponta
   outros formatos podem pedir seguir/comentar. Se o CTA não bater com o estilo,
   registrar isso como aprendizado (erro a não repetir).
 
-Nem todo vídeo tem as 9 partes perfeitamente — quando faltar uma, dizer que
-faltou (isso também é aprendizado: ex. "sem ponta solta 2, o meio do vídeo
-perdeu ritmo").
+Se o vídeo bater bem com este framework, dizer isso e preencher normalmente.
+Se não bater (faltar parte, ordem diferente, ou a lógica interna for outra),
+**não forçar o encaixe** — descrever a estrutura real como ela é, e avaliar
+se merece virar uma entrada nova em "Estruturas nativas identificadas"
+(`PADROES.md`), sozinha ou reforçando uma já catalogada do mesmo criador/
+formato.
 
 ## Passo 4 — por que performou bem (ou mal)
 
