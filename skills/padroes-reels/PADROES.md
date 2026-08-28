@@ -179,6 +179,26 @@ parece ser de distribuição/algoritmo, testável só com mais volume (ver
 recomendação no relatório do Casas Bahia: publicar mais 2-3 fura-bolha
 parecidos e comparar a fonte de views de cada um).
 
+### Achado #14 — 3º teste de topo de funil (Grupo H, "IA não substitui o
+calculista"): confirma um padrão de retenção ~20% em TODOS os 3 testes
+Este vídeo usa o exemplo de Grupo H já documentado literalmente em
+`milhorin-hooks.md` (caso real OpenAI/Anthropic) — primeira vez que um
+exemplo de skill vira vídeo real com dado de performance. Resultado:
+engajamento MISTO (comentários e compartilhamento acima do típico, mas
+curtidas/salvamentos/repost abaixo) — diferente do Casas Bahia (tudo acima)
+e do Top 5 profissões (maioria acima). **O dado mais importante é
+transversal aos 3**: tempo médio de visualização ficou em ~20% da duração
+total nos três (12s/56s, 29s/147s, 28s/134s) — mesma faixa, independente do
+mecanismo (countdown, caso real+demonstração, ou reversão de crença).
+Distribuição também segue fraca em Explorar nos 3 (0,7%, 1,9%, e o Top 5
+não tinha esse dado mas o padrão de conversão sugere o mesmo). **Hipótese
+nova a testar**: pode não ser só distribuição/algoritmo — pode ser que
+vídeos de ~2min+ desta conta tenham um teto estrutural de retenção,
+diferente do que vídeos técnicos mais curtos (30-90s) já demonstraram (ex:
+o card de atalhos, 48s, converteu excelente). Recomendação: testar uma
+versão de 60-90s do mesmo tipo de gancho de topo de funil antes de
+concluir que é só questão de distribuição.
+
 ### Novos candidatos de padrão desta leva (1 exemplo cada, monitorar)
 - **"Card físico deslizante + pergunta aberta no fechamento"** (verba
   salarial x indenizatória): tiras de papel reais deslizando pra dentro de
@@ -196,7 +216,7 @@ parecidos e comparar a fonte de views de cada um).
   celular", variante de `caixinha-de-pergunta` (P11/P21) com nome de marca
   próprio — mesmo mecanismo, rótulo diferente.
 
-**Fontes:** `2026-08-28-milhorin-proprio-*.md` (16 relatórios) em
+**Fontes:** `2026-08-28-milhorin-proprio-*.md` (17 relatórios) em
 `Contents/relatorios/`. Dado bruto: exports do Meta Business Suite,
 `Dec-31-2022_Dec-30-2023`, `Dec-31-2023_Dec-30-2024`,
 `Dec-31-2024_Dec-30-2025` (~1150 posts, 3 anos) — ainda há centenas de
