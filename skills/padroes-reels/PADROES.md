@@ -29,7 +29,7 @@ com a audiência real da marca. **Sempre que um padrão desta seção confirmar
 ou contradizer um padrão catalogado a partir de terceiros, isso pesa mais
 que qualquer outro achado do documento.**
 
-### Os 5 melhores posts próprios já analisados frame a frame
+### 14 posts próprios já analisados frame a frame
 
 | Post | Views | Alcance | Salvamentos | Seguidores novos | Formato |
 |---|---|---|---|---|---|
@@ -40,6 +40,17 @@ que qualquer outro achado do documento.**
 | RDB — problema x solução | 376.106 | 319.131 | 364 | 1.088 | Split-screen espelhado |
 | Lei 14.905 + ADC 58 (carrossel) | 66.395 | 40.665 | **1.176 (1,77% — recorde de salvamento)** | 171 | Carrossel/referência |
 | "Receita de bolo" liquidação (carrossel) | 50.925 | 27.343 | 769 (2º lugar) | 48 | Carrossel/metodologia |
+| Converter hora-relógio → hora-decimal | 1.004.326 | 1.129.009 (>views) | 578 | 265 | Demonstração manuscrita ao vivo (2º exemplo) |
+| Verba salarial x indenizatória (card deslizante) | 964.193 | 778.877 | 215 | 84 | Card físico deslizante + pergunta aberta |
+| "4 passos" (teaser mudo + legenda) | 860.183 | 503.384 | 46 | 16 | Teaser sem áudio + conteúdo na legenda |
+| "Consultoria grátis" — quanto tempo leva liquidar | 443.487 | 252.875 | 126 | **472 (0,106% — 3º lugar em conversão)** | Caixinha-de-pergunta (P11/P21) |
+| Planilha horas extras 50% (2023) | 0* | 228.084 | **1.806 (0,79% do alcance)** | 1 | Card/planilha real gravada em tela (P24) |
+| Decisões incomuns no PJe-Calc (2023) | 0* | **501.874 (maior alcance de 2023)** | 108 | 3 | Demonstração técnica avançada |
+| Pós-graduação garante nomeações? (Mário) | 35.844 | 26.732 | 18 | 0** | Reversão de crença (Grupo H) |
+
+`*` posts de 2023 não têm "Visualizações" capturada no export daquele
+período — usar Alcance. `**` conversão real provavelmente maior que 0 via
+DM (CTA de comentário-pra-lead) — ver Achado #10.
 
 ### Achado #1 — P24 confirmado como o formato de MAIOR conversão em seguidor de toda a conta
 O card estático de lista (ver P24, catalogado a partir de Fernanda Perita e
@@ -89,13 +100,77 @@ que **formato de referência/consulta favorece salvamento** independente de
 ser vídeo ou carrossel — o que importa é a promessa de "volte aqui quando
 precisar", não o formato de mídia em si.
 
-**Fontes:** `2026-08-28-milhorin-proprio-*.md` (7 relatórios) em
+### Achado #7 — "demonstração manuscrita ao vivo" confirmada 2x, formato estável
+Além do "Adicional Noturno", o vídeo "hora-relógio → hora-decimal" usa o
+mesmo mecanismo (escrita progressiva numa folha) com desempenho parecido
+(bom alcance, conversão mediana — nem o pior nem o melhor da conta). É um
+formato replicável e consistente, mas reservar pra processo/passo-a-passo,
+não pra referência rápida (isso é papel do P24).
+
+### Achado #8 — P24 não depende de design gráfico, e é estável há 2+ anos
+A planilha Excel de 2023 ("horas extras em 30s", gravação de tela simples,
+sem design) teve **0,79% de salvamento sobre o alcance** — uma das maiores
+taxas absolutas da conta inteira, no mesmo patamar do card de "Atalhos"
+(2025) que é uma peça de design elaborada. Confirma que o princípio do P24
+(referência estruturada, quase toda visível de uma vez, sem suspense) é o
+que importa — não a produção. Também confirma que esse padrão é **estável
+há pelo menos 2 anos** na conta, não é tendência recente.
+
+### Achado #9 — `caixinha-de-pergunta` (P11/P21) é o 3º melhor formato de
+conversão em seguidor da própria conta ("Consultoria grátis", 0,106%) —
+atrás só do card estático e do caso-real-com-demonstração. Reforça
+diretamente a decisão de já ter criado a skill `milhorin-caixinha-pergunta`
+— não é só um padrão promissor de terceiro, já funciona de verdade aqui.
+A variante de CTA "resposta personalizada no comentário" (em vez de
+"comente X pra receber Y") é um mecanismo novo de engajamento a testar.
+
+### Achado #10 — a métrica "seguidores novos" subestima posts com CTA de
+comentário-pra-DM
+O post "Pós-graduação garante nomeações?" (voz do Mário) teve 0 seguidores
+novos registrados, mas 11,5% de taxa de curtida (bem acima da média da
+conta) e CTA de "comente 5 dicas pra receber no privado" — ou seja, a
+conversão real provavelmente aconteceu via DM/lead capturado, não via
+"seguir", e esse dado não aparece neste export. **Lição de metodologia**:
+antes de julgar um post como fraco só pela coluna de seguidores, checar o
+tipo de CTA — se for comentário-pra-DM, a métrica certa de sucesso não é
+essa coluna.
+
+### Achado #11 — 1º exemplo do pilar de carreira/prospecção (Mário) na base,
+e usa o Grupo H de `milhorin-hooks` na prática real
+Até aqui, todo conteúdo próprio analisado era técnica de cálculo (voz do
+Fred). O post de pós-graduação é o primeiro do pilar de autoridade/
+prospecção do Mário, e aplica o Grupo H (reversão: nomeia a crença aceita —
+"pós-graduação garante nomeação" — e derruba com fato real, a resolução do
+CSJT) quase como um manual de exemplo. Confirma que o framework de gancho
+documentado a partir de terceiros já é, na prática, a voz real do Mário —
+não é teoria a ser adotada, é descrição do que ele já faz.
+
+### Novos candidatos de padrão desta leva (1 exemplo cada, monitorar)
+- **"Card físico deslizante + pergunta aberta no fechamento"** (verba
+  salarial x indenizatória): tiras de papel reais deslizando pra dentro de
+  colunas, termina com "?" + "deixe nos comentários" — revelação
+  progressiva com objeto físico, não gráfico digital, fechamento de
+  engajamento genuíno (não CTA de venda/seguir).
+- **"Teaser mudo + conteúdo na legenda"** ("4 passos"): vídeo de 6s sem
+  áudio, conteúdo real todo na legenda escrita — **alerta de baixa
+  eficiência**: teve bom alcance (860K) mas a pior conversão desta leva
+  inteira (46 saves, 16 follows) — separar o conteúdo do vídeo parece
+  prejudicar a conversão. Recomendação: o mesmo conteúdo funcionaria melhor
+  como roteiro falado (corte-explicativo ou card estático) que como legenda
+  isolada.
+- **"Consultoria grátis"**: encenação de "ler uma pergunta real no
+  celular", variante de `caixinha-de-pergunta` (P11/P21) com nome de marca
+  próprio — mesmo mecanismo, rótulo diferente.
+
+**Fontes:** `2026-08-28-milhorin-proprio-*.md` (14 relatórios) em
 `Contents/relatorios/`. Dado bruto: exports do Meta Business Suite,
 `Dec-31-2022_Dec-30-2023`, `Dec-31-2023_Dec-30-2024`,
 `Dec-31-2024_Dec-30-2025` (~1150 posts, 3 anos) — ainda há centenas de
-posts não analisados frame a frame nesta base; os 7 acima foram escolhidos
-combinando maior views, maior taxa de salvamento e maior taxa de conversão
-em seguidor. Vale expandir esta seção nas próximas rodadas.
+posts não analisados frame a frame nesta base; os 14 acima foram escolhidos
+combinando maior views, maior taxa de salvamento, maior taxa de conversão
+em seguidor, e (a partir da 2ª rodada) relevância estratégica pro pilar de
+carreira do Mário mesmo com view count baixo. Vale expandir esta seção nas
+próximas rodadas.
 
 ## Framework de referência #1 — "Ganchismo → Promessa → CTA"
 
