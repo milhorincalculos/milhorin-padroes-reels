@@ -772,22 +772,31 @@ prescricional, lista de documentos necessários pra reclamação trabalhista,
 ou checklist de direitos na demissão — pensado pra ser salvo/consultado
 depois, não pra prender atenção com suspense.
 
+**Reforço adicional via "teste inverso" (não é contraexemplo — ver seção
+abaixo pra distinção):** o vídeo próprio "Top 5 profissões que ganham
+dinheiro com cálculos" (Milhorin) fez exatamente o OPOSTO de P24 — um
+countdown que esconde o dado mais forte (renda do advogado, R$10-240
+mil/ano) até quase o fim, em vez de mostrar tudo de cara. Resultado real
+(Instagram Insights): retenção caiu de 100% pra ~30% já nos primeiros
+10-15s e nunca recuperou, só 6 seguidores novos em 1.554 views (0,39%).
+Interessante: skip rate (37,9%) e compartilhamento (0,2%) ficaram
+**melhores** que o típico da conta — o gancho não falhou, a falha foi
+especificamente em sustentar atenção até o dado mais forte, que veio tarde
+demais. Isso é evidência A FAVOR de P24 (fazer o oposto piorou o
+resultado), não uma exceção a ele. Fonte:
+`2026-08-28-milhorin-proprio-top5-profissoes-diagnostico.md`.
+
 ## Contraexemplos / exceções
 
-### "Top 5 profissões que ganham dinheiro com cálculos" (Milhorin, próprio) —
-primeiro contraexemplo real, confirma P24 pelo caminho negativo
-Countdown/listicle (5º→1º lugar) que **esconde deliberadamente** o dado mais
-forte (renda do advogado: R$10-240 mil/ano) até quase o fim — o oposto
-estrutural do P24 (mostrar tudo de uma vez). Resultado real (Instagram
-Insights, direto do app): retenção cai de 100% pra ~30% já nos primeiros
-10-15s e nunca recupera; só 6 seguidores novos em 1.554 views (0,39%,
-abaixo dos outros formatos testados na conta). Interessante: a taxa de
-"reels pulados" (37,9%) e de compartilhamento (0,2%) ficaram **melhores**
-que o típico da conta — ou seja, o gancho inicial não falhou, a falha foi
-especificamente em SUSTENTAR atenção até o dado mais forte, que veio tarde
-demais. Reforça P24 pelo caminho inverso: esta audiência específica não
-tolera bem suspense/revelação progressiva, prefere entrega imediata. Fonte:
-`2026-08-28-milhorin-proprio-top5-profissoes-diagnostico.md`.
+**Definição:** um contraexemplo de verdade é um caso que DESAFIA um padrão
+catalogado — ou o vídeo quebrou o padrão e mesmo assim performou bem, ou
+seguiu o padrão certinho e performou mal. Não confundir com um "teste
+inverso" que apenas reforça o padrão original pelo lado oposto (isso vai
+junto do próprio padrão, não aqui — ver nota em P24 acima como exemplo).
+
+*(nenhum contraexemplo real ainda — registrar aqui sempre que um vídeo
+quebrar um padrão listado acima e ainda assim performar bem, ou seguir o
+padrão e performar mal.)*
 
 ## Perguntas em aberto (a resolver com mais vídeos)
 
