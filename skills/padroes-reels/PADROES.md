@@ -18,6 +18,85 @@ Este `PADROES.md` é o padrão PROFUNDO (poucos vídeos, estrutura completa).
   contradiz) com dado quantitativo real — citar isso reforça a confiança do
   padrão. Ver Passo 7 do `SKILL.md`.
 
+## Conteúdo próprio (Milhorin) — dados reais da própria conta
+
+**Prioridade máxima**: diferente de todo o resto deste documento (análise de
+terceiros), esta seção vem de export real do Meta Business Suite
+(`@milhorincalculos`, 3 anos de dados: 2022-2025, ~1150 posts). É a ÚNICA
+fonte com dado de performance real E controle total de contexto — não é
+inferência a partir de vídeo de outro criador, é o que já funcionou (ou não)
+com a audiência real da marca. **Sempre que um padrão desta seção confirmar
+ou contradizer um padrão catalogado a partir de terceiros, isso pesa mais
+que qualquer outro achado do documento.**
+
+### Os 5 melhores posts próprios já analisados frame a frame
+
+| Post | Views | Alcance | Salvamentos | Seguidores novos | Formato |
+|---|---|---|---|---|---|
+| "Atalhos pra calcular mais rápido" (tabela) | 2.074.383 | 1.019.403 | 16.478 | **29.261 (1,4% — recorde da conta)** | Card estático (P24) |
+| "Adicional Noturno descomplicado" | **3.126.404 (recorde de alcance)** | 2.476.277 | 3.068 | 770 | Demonstração manuscrita ao vivo |
+| Sentença real + cálculo no PJe-Calc | 1.249.897 | 706.763 | 2.499 | 6.707 (2º lugar) | Caso real + demonstração ao vivo |
+| Adicional de insalubridade 10% | 1.446.543 | 982.633 | 1.683 | 582 | Talking-head puro |
+| RDB — problema x solução | 376.106 | 319.131 | 364 | 1.088 | Split-screen espelhado |
+| Lei 14.905 + ADC 58 (carrossel) | 66.395 | 40.665 | **1.176 (1,77% — recorde de salvamento)** | 171 | Carrossel/referência |
+| "Receita de bolo" liquidação (carrossel) | 50.925 | 27.343 | 769 (2º lugar) | 48 | Carrossel/metodologia |
+
+### Achado #1 — P24 confirmado como o formato de MAIOR conversão em seguidor de toda a conta
+O card estático de lista (ver P24, catalogado a partir de Fernanda Perita e
+João da CLT) é EXATAMENTE o formato do post que mais converteu seguidor em
+toda a história da conta (29.261 seguidores, taxa de 1,4% — a 2ª colocada
+fica em 0,9%). Isso deixa de ser hipótese "aplicável ao nicho jurídico" e
+vira **confirmação de primeira mão, com o melhor resultado real da própria
+marca**. Prioridade máxima de produção: mais cards de atalho/referência
+cobrindo outras verbas.
+
+### Achado #2 — hierarquia de conversão por formato (desta amostra de 5 vídeos)
+Card estático (P24) > caso real + demonstração ao vivo > demonstração
+manuscrita ao vivo > talking-head puro, em taxa de conversão de seguidor.
+**Alcance bruto não prevê conversão**: o vídeo de MAIOR alcance da conta
+("Adicional Noturno", 2,47M) converteu 38x menos que o card de atalhos em
+taxa de seguidor, apesar de alcance comparável. Views/alcance sozinhos são
+vaidade — salvamento e seguidor são os sinais que importam.
+
+### Achado #3 — "Caso real + demonstração ao vivo no PJe-Calc" é o 2º melhor
+conversor, e é o mecanismo mais alinhado ao produto da própria marca:
+mostra uma sentença real (nomes redigidos por privacidade), extrai os
+números reais do caso, e resolve ao vivo na ferramenta que a Milhorin
+ensina a usar. Isso confirma, com dado próprio, a hipótese já registrada em
+`jun-yuh-storytelling-secreto.md` e `brasiljumbos-larvas-olho-peixe.md` de
+que "demonstração ao vivo" é uma técnica de alta conversão.
+
+### Achado #4 — novo padrão: "split-screen espelhado simultâneo problema/solução"
+Variação de P8 (estrutura espelhada) encontrada no vídeo "RDB": em vez de
+antes/depois sequencial, os dois lados aparecem AO MESMO TEMPO lado a lado
+(o mesmo criador clonado, um representando o problema, outro a solução) —
+mesmo efeito de contraste, sem gastar tempo de tela extra. Baixo custo de
+produção (mesma gravação, duplicada em edição).
+
+### Achado #5 — P2 (analogia simples) confirmado na própria conta
+O carrossel "liquidar sentença é igual seguir receita de bolo" confirma que
+a técnica de analogia do cotidiano (já catalogada a partir do Bruno
+Belíssimo, "lápis na ponta do dedo pra explicar qubit") funciona
+igualmente bem aplicada a processo jurídico técnico, na própria voz da
+marca — deixa de ser só uma inferência de "isso deveria funcionar aqui
+também" e vira confirmação direta.
+
+### Achado #6 — carrossel pode ser o formato certo pra conteúdo de referência
+Os 2 carrosséis analisados (Lei 14.905, receita de bolo) têm as 2 maiores
+taxas de salvamento da conta inteira (1,77% e 1,51%), mesmo com alcance bem
+menor que os vídeos. Junto com o card estático (P24, que é vídeo), sugere
+que **formato de referência/consulta favorece salvamento** independente de
+ser vídeo ou carrossel — o que importa é a promessa de "volte aqui quando
+precisar", não o formato de mídia em si.
+
+**Fontes:** `2026-08-28-milhorin-proprio-*.md` (7 relatórios) em
+`Contents/relatorios/`. Dado bruto: exports do Meta Business Suite,
+`Dec-31-2022_Dec-30-2023`, `Dec-31-2023_Dec-30-2024`,
+`Dec-31-2024_Dec-30-2025` (~1150 posts, 3 anos) — ainda há centenas de
+posts não analisados frame a frame nesta base; os 7 acima foram escolhidos
+combinando maior views, maior taxa de salvamento e maior taxa de conversão
+em seguidor. Vale expandir esta seção nas próximas rodadas.
+
 ## Framework de referência #1 — "Ganchismo → Promessa → CTA"
 
 **Importante (correção de método):** este framework foi dado pelo usuário como
