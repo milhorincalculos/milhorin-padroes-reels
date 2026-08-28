@@ -145,6 +145,40 @@ CSJT) quase como um manual de exemplo. Confirma que o framework de gancho
 documentado a partir de terceiros já é, na prática, a voz real do Mário —
 não é teoria a ser adotada, é descrição do que ele já faz.
 
+### Achado #12 — 1º teste real de `milhorin-fura-bolha` (Modo A): roteiro
+valida, distribuição é o gargalo, não o conteúdo
+O vídeo sobre a recuperação judicial das Casas Bahia seguiu o Modo A de
+`milhorin-fura-bolha` quase 1:1 (gancho de reversão + caso real nomeado +
+fonte verificável + ponte retórica + escalada dupla com prova numérica +
+clímax reflexivo, dentro da janela de 60-160s). Resultado real (Instagram
+Insights): **todas as 6 taxas de engajamento vieram acima do típico da
+conta** (curtidas 5,7%, comentários 1,3%, salvamentos 0,5%,
+compartilhamentos 0,4%, repost 0,2%, skip rate 44% — todas marcadas "mais
+alto"/"mais baixo" [bom] pelo próprio Instagram) — mas **0 seguidores
+novos** e só 2.357 views. A causa aparente: **72,5% das views vieram do
+Feed e só 0,7% do Explorar** — a plataforma quase não testou o vídeo contra
+público frio, então não houve gente nova suficiente pra converter em
+seguidor. **Isso separa duas variáveis que antes estavam misturadas**:
+conteúdo (a escrita/estrutura do roteiro, que aqui claramente funcionou —
+melhor engajamento já visto em conteúdo de topo de funil da conta) e
+distribuição (decisão do algoritmo de estender ou não o alcance pra fora de
+quem já segue, que aqui não aconteceu). Fonte:
+`2026-08-28-milhorin-proprio-casas-bahia-fura-bolha-diagnostico.md`.
+
+### Achado #13 — revisão do Achado do "Top 5 profissões": hipótese de
+"audiência rejeita topo de funil" não se sustenta
+Comparando os dois diagnósticos de topo de funil feitos até agora: no "Top
+5 profissões" a retenção caiu rápido (audiência existente não sustentou
+atenção); no Casas Bahia, a audiência que viu **engajou muito bem**. A
+diferença não é o tipo de conteúdo (ambos são topo de funil/fora do
+padrão técnico), é a EXECUÇÃO — o Casas Bahia seguiu uma estrutura
+narrativa comprovada (fura-bolha Modo A) com prova real e escalada, o Top 5
+usou suspense/countdown que não sustentou. **Conclusão prática**: vale
+continuar investindo em fura-bolha bem estruturado — o gargalo atual
+parece ser de distribuição/algoritmo, testável só com mais volume (ver
+recomendação no relatório do Casas Bahia: publicar mais 2-3 fura-bolha
+parecidos e comparar a fonte de views de cada um).
+
 ### Novos candidatos de padrão desta leva (1 exemplo cada, monitorar)
 - **"Card físico deslizante + pergunta aberta no fechamento"** (verba
   salarial x indenizatória): tiras de papel reais deslizando pra dentro de
@@ -162,7 +196,7 @@ não é teoria a ser adotada, é descrição do que ele já faz.
   celular", variante de `caixinha-de-pergunta` (P11/P21) com nome de marca
   próprio — mesmo mecanismo, rótulo diferente.
 
-**Fontes:** `2026-08-28-milhorin-proprio-*.md` (14 relatórios) em
+**Fontes:** `2026-08-28-milhorin-proprio-*.md` (16 relatórios) em
 `Contents/relatorios/`. Dado bruto: exports do Meta Business Suite,
 `Dec-31-2022_Dec-30-2023`, `Dec-31-2023_Dec-30-2024`,
 `Dec-31-2024_Dec-30-2025` (~1150 posts, 3 anos) — ainda há centenas de
