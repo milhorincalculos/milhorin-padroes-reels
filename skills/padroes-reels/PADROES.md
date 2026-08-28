@@ -71,21 +71,25 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
   por >20 mil seguidores novos, funcionando tanto em vídeos curtos quanto em
   vídeos acima de 10 minutos.
 
-## Formatos observados até agora (22 vídeos analisados)
+## Formatos observados até agora (41 vídeos analisados)
 
 | Formato | Vídeos confirmando | Observação |
 |---|---|---|
 | `editado` (talking-head + b-roll) | 6 (Bruno Belíssimo × 5 — quântico, fractal/universo, robocop, neurônios, texto-de-IA — e Jun Yuh/secreto) | Corte a cada 1-3s, b-roll ilustra literalmente cada palavra dita. **De longe o formato mais confirmado da base** — assinatura clara do Bruno Belíssimo |
 | `editado` (storytelling fotográfico, sem voz) | 1 (Jun Yuh/pais divorciados) | 100% fotos de arquivo + texto, zero narração falada |
 | `editado` (poema narrado sobre b-roll) | 1 (Leandro Ladeira/casa dos sonhos) | Narração em tom literário, nunca olha pra câmera, zero talking-head |
-| `análise de criador` | 2 (Hanah Franklin — professor Crônicas, Arthur Paek) | Reage/disseca conteúdo de outro creator, prints reais como prova, filtro laranja marca cada item numerado. **Formato sistemático/repetível** — mesma criadora usou o molde 2x |
+| `análise de criador` | **3** (Hanah Franklin × 2 — professor Crônicas, Arthur Paek — e **Maria Eduarda SV × 1**, análise do topete da @laismadi.o) | Reage/disseca conteúdo de outro creator, prints reais como prova. **Confirmado agora com um 2º criador** — deixa de ser peculiaridade da Hanah Franklin, formato genuinamente replicável |
 | `storytelling pessoal` (talking-head) | 2 (Jun Yuh/metacognição, Hanah Franklin/tatuagem) | Fala direto pra câmera, mistura teoria+vulnerabilidade pessoal |
-| `yap-content` | **4** (Leandro Ladeira/mulheres no digital + **Lipe Alive × 3** — nutri, stay-alive, pega-a-senha) | Plano fixo/selfie, zero corte, zero produção. **Confirmado com um 2º criador e são os 3 vídeos de MAIOR view de toda a base** (10M, 5,3M, 4,6M) — forte sinal de que este é o formato de maior ROI de atenção por esforço de produção da base inteira |
-| `meme` | 1 (Leandro Ladeira/IA face-swap) | Sequestra trend viral alheio + reviravolta cômica via IA |
+| `yap-content` | 4 (Leandro Ladeira/mulheres no digital + Lipe Alive × 3 — nutri, stay-alive, pega-a-senha) | Plano fixo/selfie, zero corte, zero produção. São os 3 vídeos de MAIOR view de toda a base (10M, 5,3M, 4,6M) — forte sinal de que este é o formato de maior ROI de atenção por esforço de produção da base inteira |
+| `meme` | **4** (Leandro Ladeira/IA face-swap, Dra. Henriette/"Socorro Jesus Amado", Eduardo Waga/"virei esse chefe", Rafa Bri7o/"Vini no celular") | Pelo menos 3 mecanismos distintos confirmados: reviravolta cômica (Leandro), "clipe-flagrante mudo" sem narração (Dra. Henriette), "legenda-piada sem reveal" com clipe de arquivo (Eduardo Waga), e "persona-switch via figurino" (Rafa Bri7o) |
 | `história com provas` | 1 (Leandro Ladeira/ideias inimagináveis) | História pessoal + lista de casos de terceiros, cada um com print de prova |
-| `caixinha-de-pergunta` | **2** (Maycon Cardoso × 2 — post #256 "recusa cômica" P11, post #255 "resposta direta+humor negro") | **2 mecanismos confirmados, não 1**: "recusa cômica" (P11) e "resposta direta com objeção antecipada + humor negro" (ver P21 abaixo). **Único formato desta base 100% dentro do nicho jurídico**, e os 2 vídeos deste formato estão entre os 5 de maior view de toda a base (4,46M e 3,97M) |
+| `caixinha-de-pergunta` | **3** (Maycon Cardoso × 2 — post #256 "recusa cômica" P11, post #255 "resposta direta+humor negro" — e **Alexandre Ferreira × 1**, variante séria sem humor) | **Confirmado com um 2º criador** — o mecanismo P21 (resposta direta + objeção antecipada) funciona igual sem humor. 3 dos vídeos deste formato/mecanismo estão entre os de maior view do nicho jurídico da base |
 | `tutorial/passo-a-passo` | 1 (Bruno Belíssimo/como ficar invisível na internet) | Lista de ações concretas, cada uma com prova visual (print/objeto real) |
-| `notícia/newsjacking` | 1 (Bruno Belíssimo/IA apagando as estrelas) | Caso real nomeado e verificável (empresa, local), prova instrumentada (medição real), cenário fora do padrão do canal |
+| `notícia/newsjacking` | **4** (Bruno Belíssimo/IA apagando as estrelas, Alexandre Ferreira/escala 6x1, Barbara Campolina × 2 — panela e amamentação) | Caso real nomeado e verificável, prova instrumentada. **Confirmado com 2 criadores do nicho jurídico** — deixa de ser peculiaridade de fora do nicho |
+| `sem-fala-música` (card estático de lista/texto) | **3** (Fernanda Perita/glossário perícia, João da CLT × 2 — 5 conselhos, conselho do advogado) | Ver P24 — conteúdo inteiro visível já no frame 1, sem revelação progressiva, sem CTA. Confirmado com 2 criadores do nicho jurídico |
+| `sem-fala-música` (outros mecanismos) | 4 (Eduardo Waga/Claude perícia, Maria Eduarda SV/reaction-dump, Me Poupe!/meme-template estático, e o "aviso/PSA" do Sou Marco Ribeiro tem locução mas cabe na família) | Grupo heterogêneo — reaction-dump editado no beat, vinheta repetitiva sem arco, meme-template legenda-dependente — cada um com estrutura nativa própria, ainda 1 exemplo cada |
+| `corte de podcast` | 2 (Me Poupe!/"pobre consciente", Sou Marco Ribeiro/"chuva de reels") | "Pobre consciente" mostra artefato de corte editorial (promessa de lista numerada que entrega só o 1º item); "chuva de reels" reforça P13/P4 |
+| `lo-fi` (aviso/PSA de bastidor) | 1 (Sou Marco Ribeiro/"limite de 400") | Variação nova de lo-fi: aviso sério sobre punição/restrição da própria plataforma, prova real (P12) em vez de tese argumentativa |
 
 ## Estruturas nativas identificadas (por criador/formato)
 
@@ -282,7 +286,27 @@ Jun Yuh (ver acima) — os dois reforçam P13 com a mesma explicação
 estrutural: retenção 100% via conteúdo/tese, zero dependência de edição ou
 blocos separados.
 
-### Achado consolidado: quantos dos 22 vídeos realmente seguem o Framework #1?
+### Estrutura nativa — leva de 19 vídeos (10 criadores, fila do dashboard)
+
+Estruturas de 1 exemplo só até agora — monitorar antes de virar padrão numerado:
+
+- **"Correção de expectativa por honestidade"** (`alexandreferreira-escala-6x1.md`, notícia): em vez de ponta solta de suspense, o vídeo avisa explicitamente "isso ainda não é aprovação" no meio — ganha credibilidade admitindo o limite da própria notícia.
+- **"Clipe-flagrante mudo"** (`drahenriette-socorro-jesus-amado.md`, meme): found footage real + balão de chat fixo substituindo 100% da narração, cena única sem blocos.
+- **"Legenda-piada sem reveal"** (`eduardowaga-confesso-virei-chefe.md`, meme): clipe de arquivo reconhecível + legenda entrega a piada de cara, sem suspense — mais barato que o arco cômico de 3 partes do Leandro Ladeira, mas também mais raso.
+- **"Prova em loop sem narração + pergunta sem solução"** (`barbaracampolina-panela.md`, notícia): possivelmente correlacionado com o menor desempenho da criadora nesta leva — vídeo sem CTA nem fechamento.
+- **"Reaction-dump editado no beat"** (`mariaeduardasv-dar-motivo-julgar.md`): colagem de reações de terceiros cortada no ritmo da música, zero argumento verbal.
+- **"Promessa de lista numerada que entrega só o 1º item"** (`mepoupenaweb-pobre-consciente.md`): provável artefato de corte de podcast longo — promete "5 dicas", desenvolve só 1, termina abrupto. Vale testar se isso prejudica ou não a retenção antes de evitar como erro.
+- **"Meme-template estático, legenda-dependente"** (`mepoupenaweb-pouquinho-por-dia.md`): plano único de 12s, texto fixo do início ao fim, a piada só fecha combinando vídeo+legenda do post — zero argumento, mais extremo que P13.
+- **"Persona-switch via figurino"** (`rafabri7o-vini-celular.md`, meme): troca de figurino no mesmo plano-sequência cria 2 personagens reagindo entre si, com quebra de 4ª parede — variação do arco cômico de 3 partes com um mecanismo de comédia diferente.
+- **"Texto de contexto permanente"** (`rafabri7o-carro-pai.md`): o texto de abertura fica fixo na tela o vídeo inteiro (não só nos primeiros segundos), cobrindo um momento real até a revelação emocional — reforça o mecanismo de revelação emocional já visto em Jun Yuh/Hanah Franklin.
+- **"Aviso/PSA de bastidor"** (`soumarcoribeiro-limite-400.md`): selfie sobre gravação de tela real (notificação de punição da plataforma) repetida 3x, sem CTA de ação — variação de P12 (ver acima).
+
+Achado transversal desta leva: **3 dos 19 vídeos** (`fernandaperita-glossario-
+pericia.md`, `joaodaclt-5-conselhos-clt.md`, `joaodaclt-conselho-advogado.md`)
+compartilham a MESMA estrutura nativa — virou padrão numerado, ver **P24**
+acima.
+
+### Achado consolidado: quantos dos 41 vídeos realmente seguem o Framework #1?
 
 Depois de reavaliar os 18 primeiros com a estrutura nativa em primeiro lugar
 (em vez de forçar o encaixe), só **2 de 18** batiam de perto com "Ganchismo →
@@ -298,17 +322,21 @@ fundidas (meme-ia, caixinha-humor do Maycon), tours sensoriais contínuos
 credenciais (professor-cronicas, arthur-paek), ou a estrutura própria do
 Bruno Belíssimo já detalhada acima.
 
-**Os 4 vídeos novos (Top 5 views do dashboard, os de maior alcance real de
-toda a base) reforçam a mesma conclusão, com força total**: nenhum dos 4
-bate com o Framework #1. Os 3 do Lipe Alive e a resposta direta do Maycon
-(post #255) são, cada um, uma estrutura curta e própria (bloco único até a
-virada final, corrente lógica contínua, bloco-lista acelerada, ou
-pergunta→resposta→objeção→humor) — **ainda 2 de 22** batem com o Framework
-#1. **Conclusão prática, agora mais forte**: os vídeos de MAIOR desempenho
-real (visualizações) desta base inteira são justamente os que MENOS seguem
-o Framework #1 — o framework é útil como lente de comparação, mas não é
-onde o desempenho real está concentrado. Descrever a estrutura nativa
-primeiro continua indispensável.
+**Os 4 vídeos do Top 5 views do dashboard (os de maior alcance real de toda
+a base) reforçam a mesma conclusão, com força total**: nenhum dos 4 bate com
+o Framework #1. **A leva seguinte de 19 vídeos (10 criadores, incluindo 6
+do nicho jurídico) confirma outra vez**: nenhum bateu de perto — a maioria
+diverge por natureza do próprio formato (cards estáticos, memes, correntes
+lógicas, avisos/PSA), e os que chegam mais perto (`alexandreferreira-
+escala-6x1`, `mepoupenaweb-pobre-consciente`) só batem parcialmente. **Ainda
+2 de 41** batem de verdade com o Framework #1 (`jun-yuh-storytelling-secreto`
+e `leandroladeiran-ideias-inimaginaveis`) — a proporção só encolheu conforme
+a base cresceu. **Conclusão prática, agora com uma base de 41 vídeos**: os
+vídeos de MAIOR desempenho real (visualizações) desta base inteira são
+justamente os que MENOS seguem o Framework #1 — o framework é útil como
+lente de comparação, mas não é onde o desempenho real está concentrado.
+Descrever a estrutura nativa primeiro continua indispensável, e a essa
+altura é a regra, não a exceção.
 
 ## Skills de produção — cobertura por formato
 
@@ -354,14 +382,16 @@ câncer, prever terremoto). Aplicação directa pro nicho: sempre voltar pra "is
 significa X reais a mais no seu bolso" / "isso evita que você perca Y", não
 ficar preso em explicar o mecanismo jurídico.
 
-### P4 — Prova numérica específica (confirmado: 5 vídeos — padrão mais recorrente da base)
+### P4 — Prova numérica específica (confirmado: 6 vídeos — padrão mais recorrente da base)
 Um número específico e alto ("17 anos e 2 bilhões de dólares", "R$170 milhões
 em cursos de pompoarismo", "8M+ de audiência", "500 mil seguidores", "300 mil
 por mês") dá credibilidade instantânea sem precisar provar nada. Quanto mais
 números diferentes empilhados num mesmo vídeo (ver relatório
 `leandroladeiran-ideias-inimaginaveis.md`, ~6 números em 4min), mais o vídeo
 sustenta duração longa sem perder ritmo. Aplicação: "processo de R$X", "prazo
-de Y dias", "Z mil trabalhadores afetados".
+de Y dias", "Z mil trabalhadores afetados". Reforçado em
+`soumarcoribeiro-chuva-de-reels.md` (relato real com prova numérica
+empilhada dentro de uma corrente lógica contínua — ver P13).
 
 ### P5 — Piada/gancho social no fechamento (confirmado: 1 vídeo)
 Terminar um vídeo sério com uma piada leve e compartilhável (referência
@@ -420,43 +450,62 @@ no cálculo da rescisão, mas..." é um roteiro pronto pra testar. **Importante:
 não é o único mecanismo do formato** — ver P21 abaixo, confirmado no mesmo
 criador com um mecanismo diferente (resposta direta, sem recusa).
 
-### P21 — "Resposta direta + objeção antecipada + humor negro" (2º mecanismo
-de `caixinha-de-pergunta`, confirmado: 1 vídeo, 4.463.619 views reais)
+### P21 — "Resposta direta + objeção antecipada" (2º mecanismo de
+`caixinha-de-pergunta`/roteiro explicativo, confirmado: **4 vídeos, 3
+criadores** — humor é opcional, não essencial ao mecanismo)
 Mesmo criador do P11 (Maycon Cardoso), formato idêntico (print de pergunta
 fixo na tela), mas mecanismo diferente: em vez de fingir recusar, ele
 responde direto e específico já na 1ª frase, levanta ele mesmo a objeção
 óbvia do espectador ("ah Doutor, você é doido? uma .380 é a metade da
 potência") e resolve com argumentação jurídica real (consequência
 processual de cada cenário) antes de fechar em humor negro. Fonte:
-relatório `mayconcardoso-troque-380.md` (post #255). **Conclusão prática**:
-`caixinha-de-pergunta` tem pelo menos 2 caminhos válidos — recusa-escalada
-(P11) quando a "informação proibida" é o motor cômico, ou resposta direta
-com objeção-e-resposta (P21) quando o valor está na argumentação jurídica
-em si. P21 é mais simples de replicar e não depende de timing cômico tão
+relatório `mayconcardoso-troque-380.md` (post #255). **Confirmado 3x mais**,
+e a variante SÉRIA (sem humor) funciona igual: Alexandre Ferreira
+(`alexandreferreira-celular-ponto.md`, print fixo → resposta direta → ressalva
+profissional → reafirmação, tom 100% sério) e Fernanda Perita
+(`fernandaperita-saldo-salario.md`, objeção antecipada "por que não dividir
+por 220?" dentro de uma corrente lógica técnica, também sem humor). **Conclusão
+prática, agora mais precisa**: o mecanismo central de P21 é responder direto +
+antecipar a objeção do espectador — o humor negro do vídeo original era só o
+TOM daquele criador específico, não parte obrigatória do mecanismo. Separar
+"o que fazer" (P21) de "que tom usar" dá muito mais liberdade pra aplicar no
+nicho jurídico sério. `caixinha-de-pergunta` tem pelo menos 2 caminhos válidos
+— recusa-escalada (P11) quando a "informação proibida" é o motor cômico, ou
+resposta direta com objeção-e-resposta (P21, com ou sem humor) quando o valor
+está na argumentação em si. P21 é mais simples de replicar e não depende de
+timing cômico tão
 apurado quanto P11.
 
-### P12 — Prova social com prints reais de terceiros (confirmado: 3 vídeos)
-Mostrar o print real do perfil/post sendo citado (com seguidores/curtidas
-visíveis) — seja analisando um criador (Hanah Franklin x2) seja citando
-exemplos de sucesso alheio (Leandro Ladeira/ideias inimagináveis, print da
-@caroltabuas). Funciona melhor que só descrever verbalmente porque a prova é
-verificável, não é afirmação do próprio criador.
+### P12 — Prova social/prova real (confirmado: 4 vídeos)
+Mostrar o print/gravação real do que está sendo citado (com
+seguidores/curtidas visíveis, ou uma notificação real) — seja analisando um
+criador (Hanah Franklin x2) seja citando exemplos de sucesso alheio (Leandro
+Ladeira/ideias inimagináveis, print da @caroltabuas). Funciona melhor que só
+descrever verbalmente porque a prova é verificável, não é afirmação do
+próprio criador. **Variação nova confirmada** em
+`soumarcoribeiro-limite-400.md`: prova real da PRÓPRIA punição/restrição
+(print de notificação de bloqueio do Instagram), não de sucesso alheio —
+mostra que o mecanismo (prova verificável > afirmação) funciona tanto pra
+credibilidade positiva quanto pra alerta/aviso.
 
 ### P13 — Tese/conteúdo sozinho sustenta vídeo sem produção nenhuma
-(confirmado: **3 vídeos, 2 criadores** — reforçado por um vídeo de 10M views)
+(confirmado: **5 vídeos, 4 criadores**)
 O vídeo lo-fi de 2:49 do Leandro Ladeira (mulheres no digital), o do Jun Yuh
-(metacognição, "não é QI") e o "STAY ALIVEEEE" do Lipe Alive (intenção x
-impacto, 5,3M views) compartilham a mesma estrutura nativa: **corrente
-lógica única e contínua, sem blocos nem pontas soltas** (ver "Estruturas
-nativas identificadas"). Os 2 primeiros abrem contrariando uma crença
-popular específica; o 3º não usa reversão de crença, só desenvolve um
-conceito direto — o que sugere que **nem precisa ser contra-intuitivo**,
-só precisa ser uma corrente de raciocínio boa o suficiente pra segurar
-sozinha. Produção/edição não é pré-requisito — boa notícia pra conteúdo
-jurídico sério gravado sem produção. Reforçado ainda mais forte pelo vídeo
-"Procure um nutri!" do mesmo Lipe Alive (10M views, o maior da base
-inteira) — embora não seja uma corrente lógica argumentativa, é o mesmo
-princípio geral: zero produção, zero CTA, e o vídeo mais visto de todos.
+(metacognição, "não é QI"), o "STAY ALIVEEEE" do Lipe Alive (intenção x
+impacto, 5,3M views), o "saldo de salário" da Fernanda Perita (1º exemplo
+puramente técnico-jurídico) e o "chuva de reels" do Sou Marco Ribeiro
+compartilham a mesma estrutura nativa: **corrente lógica única e contínua,
+sem blocos nem pontas soltas** (ver "Estruturas nativas identificadas").
+Alguns abrem contrariando uma crença popular específica; outros só
+desenvolvem um conceito ou relato direto — o que confirma que **nem precisa
+ser contra-intuitivo**, só precisa ser uma corrente de raciocínio ou relato
+bom o suficiente pra segurar sozinho. Produção/edição não é pré-requisito —
+ótima notícia pra conteúdo jurídico sério gravado sem produção, e agora
+**confirmado dentro do próprio nicho** (Fernanda Perita). Reforçado ainda
+mais forte pelo vídeo "Procure um nutri!" do Lipe Alive (10M views, o maior
+da base inteira) — embora não seja uma corrente lógica argumentativa, é o
+mesmo princípio geral: zero produção, zero CTA, e o vídeo mais visto de
+todos.
 
 ### P14 — Ilustração/cartoon como gancho visual pra tema tabu (confirmado: 1 vídeo)
 Quando o assunto é sensível/tabu (sexualidade, no caso analisado), usar uma
@@ -500,6 +549,23 @@ de fechar com piada (P5) ou virada emocional (P10). Gera comentário por
 debate genuíno, não por concordância. Fonte: relatório
 `brunobelissimo-robocop-robos.md`.
 
+### P24 — Card estático de lista/texto: conteúdo inteiro já visível no
+frame 1, sem revelação progressiva (confirmado: **3 vídeos, 2 criadores**)
+Em vez de revelar informação aos poucos (blocos, pontas soltas), o vídeo
+mostra a lista/texto COMPLETO desde o primeiro frame, parado ou quase
+parado sobre um b-roll simples — não há suspense nem progressão, o valor
+é 100% de consulta/referência (o tipo de vídeo que se salva pra reler, não
+que se assiste prendendo atenção). Confirmado em `fernandaperita-glossario-
+pericia.md` (7 termos técnicos, todos visíveis de uma vez) e em **2 vídeos
+do mesmo outro criador** — `joaodaclt-5-conselhos-clt.md` (tom pragmático)
+e `joaodaclt-conselho-advogado.md` (tom emocional/confessional, mesmo
+mecanismo estrutural com registro totalmente diferente) — o que confirma
+que a estrutura pertence ao FORMATO, não ao tom de quem fala. Nenhum dos 3
+tem CTA. Aplicação direta pro nicho jurídico: um "card" com prazo
+prescricional, lista de documentos necessários pra reclamação trabalhista,
+ou checklist de direitos na demissão — pensado pra ser salvo/consultado
+depois, não pra prender atenção com suspense.
+
 ## Contraexemplos / exceções
 
 *(nenhum ainda — registrar aqui sempre que um vídeo quebrar um padrão listado
@@ -524,11 +590,17 @@ acima e ainda assim performar bem, ou seguir o padrão e performar mal.)*
 - P8 (estrutura espelhada) e P10 (fechar no emocional) — P8 já confirmado em
   2 criadores diferentes (ver acima); P10 ainda só 1 vídeo, continua em
   aberto.
-- **Atualizado**: dos 22 vídeos, 2 são do nicho jurídico — ambos do mesmo
-  criador (Maycon Cardoso, posts #255 e #256), ambos entre os 5 de maior
-  view de toda a base (4,46M e 3,97M). Ainda prioridade alta: buscar
-  exemplos de OUTROS criadores/advogados do nicho, não só o Maycon, pra
-  não generalizar padrão jurídico a partir de 1 pessoa só.
+- **[RESOLVIDO em grande parte]**: dos 41 vídeos, agora **11 são do nicho
+  jurídico/adjacente**, espalhados por **6 criadores diferentes** — Maycon
+  Cardoso (2), Alexandre Ferreira (2), Barbara Campolina (2), Dra. Henriette
+  (1), Fernanda Perita/perícia de cálculos (2), João da CLT (2). Deixou de
+  ser "1 criador só" — já dá pra generalizar padrão com mais confiança.
+  Achados específicos do nicho: `notícia/newsjacking` e `caixinha-de-pergunta`
+  (P21) confirmados dentro do próprio nicho: P24 (card estático) confirmado
+  2x só no nicho jurídico (Fernanda Perita + João da CLT); P13 (corrente
+  lógica sem produção) confirmado no nicho pela 1ª vez (Fernanda Perita).
+  Segue como prioridade menor, não mais crítica: continuar variando
+  criadores pra não superindexar nos 6 já mapeados.
 - **[RESOLVIDO]** Nota operacional: os 6 vídeos avulsos do Bruno Belíssimo
   ficaram sem transcrição por esgotamento de créditos do Whisper/OpenAI —
   créditos foram repostos e os 6 relatórios já foram corrigidos com a
