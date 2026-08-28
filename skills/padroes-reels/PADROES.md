@@ -71,7 +71,7 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
   por >20 mil seguidores novos, funcionando tanto em vídeos curtos quanto em
   vídeos acima de 10 minutos.
 
-## Formatos observados até agora (41 vídeos analisados)
+## Formatos observados até agora (48 vídeos analisados)
 
 | Formato | Vídeos confirmando | Observação |
 |---|---|---|
@@ -98,13 +98,20 @@ forçadas em um framework prévio). Cada entrada é a sequência de blocos que
 o vídeo *de fato* segue — usar como segunda estrutura de referência, ao
 lado do Framework #1 acima e do modelo Modo A/D do `milhorin-fura-bolha`.
 
-### Estrutura nativa — Bruno Belíssimo (confirmada em 7 vídeos)
+### Estrutura nativa — "gancho→caso→escalada→CTA" (confirmada em 7 vídeos
+do Bruno Belíssimo, e agora **cross-creator: mais 3 criadores
+independentes**)
 
-Analisando os 7 vídeos deste criador com transcrição completa (quântico,
+Analisando os 7 vídeos do Bruno Belíssimo com transcrição completa (quântico,
 fractal/universo, robocop, neurônios, texto-de-IA, invisível-internet,
 IA-apagando-estrelas), a estrutura real que se repete **não é** nem o
 Framework #1 nem o modelo de reversão/2-atos do `milhorin-fura-bolha` — é
-uma terceira estrutura própria:
+uma terceira estrutura própria. **Atualização importante**: essa mesma
+sequência apareceu, de forma independente, em 3 vídeos de 3 criadores
+diferentes de nicho de marketing/negócios (Luciano Coelho/@lucianorabbit,
+Lara Rosado/@lararosadomkt, Raphael Mattos/@raphaeldmattos) — deixou de ser
+peculiaridade de 1 criador e virou um padrão estrutural genuinamente
+replicável entre contas distintas:
 
 ```
 Gancho de choque/hipérbole (nem sempre reversão de expectativa)
@@ -155,16 +162,23 @@ assinatura de conexão parasocial, distinta de qualquer CTA funcional — não
 pede nada, só declara identidade/afeto. **Generalização**: a catchphrase não
 precisa ser uma frase fixa única — pode ser um repertório pequeno (2-3
 frases) que se alterna, contanto que seja sempre reconhecível como "a marca
-registrada" de quem fala. Testar um fechamento pessoal assim pra Mário/Fred,
-sem soar fora de tom da marca.
+registrada" de quem fala. Reforçado por um 3º criador em
+`lluizalins-heineken-antipaparazzi.md` (assinatura pessoal reconhecível no
+fechamento). Testar um fechamento pessoal assim pra Mário/Fred, sem soar
+fora de tom da marca.
 
-### P20 — Comando direto ao espectador como dobradiça de escalada (confirmado: 2 vídeos)
+### P20 — Comando direto ao espectador como dobradiça de escalada
+(confirmado: **3 vídeos, 2 criadores** — deixou de ser peculiaridade do
+Bruno Belíssimo)
 Em vez de reticências ("mas isso nem é o pior..."), o criador às vezes usa um
 comando imperativo dirigido explicitamente a quem assiste pra sinalizar que
 a intensidade vai aumentar: "Senta direito porque isso só vai piorar e eu só
 tô começando", "Presta atenção", "Segura aí" (fractal/universo, 3
 ocorrências) e "Presta atenção nessa paz, nesse rio aqui" (IA apagando as
-estrelas, na abertura). É uma variação mais direta/pessoal da "ponta solta"
+estrelas, na abertura). **Confirmado fora do universo Bruno Belíssimo** em
+`raphaeldmattos-honey-spoon.md` (comando direto usado 2x, como dobradiça
+entre a 1ª e a 2ª camada de insight) — confirma que é técnica replicável,
+não estilo pessoal de 1 criador. É uma variação mais direta/pessoal da "ponta solta"
 do Framework #1 — advertência em vez de mistério aberto. Continuar
 monitorando em vídeos futuros antes de generalizar como padrão fixo do
 criador.
@@ -306,7 +320,27 @@ pericia.md`, `joaodaclt-5-conselhos-clt.md`, `joaodaclt-conselho-advogado.md`)
 compartilham a MESMA estrutura nativa — virou padrão numerado, ver **P24**
 acima.
 
-### Achado consolidado: quantos dos 41 vídeos realmente seguem o Framework #1?
+### Estrutura nativa — leva de 7 vídeos avulsos (2026-08-28, sem contexto
+prévio de criador/views)
+
+Esta leva veio só como links — a estrutura "gancho→caso→escalada→CTA" do
+Bruno Belíssimo foi encontrada de forma independente em 3 vídeos de 3
+criadores novos (ver seção atualizada acima). Um candidato de estrutura
+nativa ainda não catalogado:
+
+- **"Tutorial ao vivo com virada de sentido no fechamento"**
+  (`estudiozota-hora-de-aprender-zentangle.md`): segmento recorrente onde o
+  apresentador tenta reproduzir ao vivo uma técnica vista no trabalho de
+  outra pessoa (split-screen papel+webcam), narrando o processo em tempo
+  real — a tensão não é suspense de revelação, é tensão de progresso
+  técnico (vai dar certo?). Fecha com uma virada de sentido pessoal ("de
+  cópia pra algo meu"). Monitorar mais exemplos antes de generalizar.
+
+2 vídeos desta leva (`DZ4v9Douyrh`, `DX5JIKPt9Xs`) não puderam ser baixados —
+Instagram bloqueia com restrição de idade, exige login. Não contornado
+(autenticação não é ação automática desta skill).
+
+### Achado consolidado: quantos dos 48 vídeos realmente seguem o Framework #1?
 
 Depois de reavaliar os 18 primeiros com a estrutura nativa em primeiro lugar
 (em vez de forçar o encaixe), só **2 de 18** batiam de perto com "Ganchismo →
@@ -328,13 +362,16 @@ o Framework #1. **A leva seguinte de 19 vídeos (10 criadores, incluindo 6
 do nicho jurídico) confirma outra vez**: nenhum bateu de perto — a maioria
 diverge por natureza do próprio formato (cards estáticos, memes, correntes
 lógicas, avisos/PSA), e os que chegam mais perto (`alexandreferreira-
-escala-6x1`, `mepoupenaweb-pobre-consciente`) só batem parcialmente. **Ainda
-2 de 41** batem de verdade com o Framework #1 (`jun-yuh-storytelling-secreto`
-e `leandroladeiran-ideias-inimaginaveis`) — a proporção só encolheu conforme
-a base cresceu. **Conclusão prática, agora com uma base de 41 vídeos**: os
-vídeos de MAIOR desempenho real (visualizações) desta base inteira são
-justamente os que MENOS seguem o Framework #1 — o framework é útil como
-lente de comparação, mas não é onde o desempenho real está concentrado.
+escala-6x1`, `mepoupenaweb-pobre-consciente`) só batem parcialmente. **A
+leva de 7 vídeos avulsos mantém o mesmo padrão** — nenhum bate de perto, a
+maioria segue a estrutura "gancho→caso→escalada→CTA" (que também não é o
+Framework #1). **Ainda 2 de 48** batem de verdade com o Framework #1
+(`jun-yuh-storytelling-secreto` e `leandroladeiran-ideias-inimaginaveis`) —
+a proporção só encolheu conforme a base cresceu. **Conclusão prática, agora
+com uma base de 48 vídeos**: os vídeos de MAIOR desempenho real
+(visualizações) desta base inteira são justamente os que MENOS seguem o
+Framework #1 — o framework é útil como lente de comparação, mas não é onde
+o desempenho real está concentrado.
 Descrever a estrutura nativa primeiro continua indispensável, e a essa
 altura é a regra, não a exceção.
 
@@ -382,7 +419,7 @@ câncer, prever terremoto). Aplicação directa pro nicho: sempre voltar pra "is
 significa X reais a mais no seu bolso" / "isso evita que você perca Y", não
 ficar preso em explicar o mecanismo jurídico.
 
-### P4 — Prova numérica específica (confirmado: 6 vídeos — padrão mais recorrente da base)
+### P4 — Prova numérica específica (confirmado: 7 vídeos — padrão mais recorrente da base)
 Um número específico e alto ("17 anos e 2 bilhões de dólares", "R$170 milhões
 em cursos de pompoarismo", "8M+ de audiência", "500 mil seguidores", "300 mil
 por mês") dá credibilidade instantânea sem precisar provar nada. Quanto mais
@@ -391,7 +428,9 @@ números diferentes empilhados num mesmo vídeo (ver relatório
 sustenta duração longa sem perder ritmo. Aplicação: "processo de R$X", "prazo
 de Y dias", "Z mil trabalhadores afetados". Reforçado em
 `soumarcoribeiro-chuva-de-reels.md` (relato real com prova numérica
-empilhada dentro de uma corrente lógica contínua — ver P13).
+empilhada dentro de uma corrente lógica contínua — ver P13) e em
+`brasiljumbos-lingua-pirarucu.md` ("90% das pessoas não sabem" como
+estatística de abertura).
 
 ### P5 — Piada/gancho social no fechamento (confirmado: 1 vídeo)
 Terminar um vídeo sério com uma piada leve e compartilhável (referência
@@ -474,26 +513,39 @@ nicho jurídico sério. `caixinha-de-pergunta` tem pelo menos 2 caminhos válido
 resposta direta com objeção-e-resposta (P21, com ou sem humor) quando o valor
 está na argumentação em si. P21 é mais simples de replicar e não depende de
 timing cômico tão
-apurado quanto P11.
+apurado quanto P11. **Generalização mais recente**: `brasiljumbos-lingua-
+pirarucu.md` usa objeção antecipada + resposta **fora do formato
+`caixinha-de-pergunta`** (é um vídeo de biologia com corrente lógica
+contínua) — confirma que P21 é uma técnica de ARGUMENTAÇÃO reutilizável em
+qualquer formato, não uma característica exclusiva de vídeos de
+pergunta-e-resposta.
 
-### P12 — Prova social/prova real (confirmado: 4 vídeos)
+### P12 — Prova social/prova real (confirmado: 6 vídeos)
 Mostrar o print/gravação real do que está sendo citado (com
 seguidores/curtidas visíveis, ou uma notificação real) — seja analisando um
 criador (Hanah Franklin x2) seja citando exemplos de sucesso alheio (Leandro
 Ladeira/ideias inimagináveis, print da @caroltabuas). Funciona melhor que só
 descrever verbalmente porque a prova é verificável, não é afirmação do
-próprio criador. **Variação nova confirmada** em
-`soumarcoribeiro-limite-400.md`: prova real da PRÓPRIA punição/restrição
-(print de notificação de bloqueio do Instagram), não de sucesso alheio —
-mostra que o mecanismo (prova verificável > afirmação) funciona tanto pra
-credibilidade positiva quanto pra alerta/aviso.
+próprio criador. **Variação confirmada** em `soumarcoribeiro-limite-400.md`:
+prova real da PRÓPRIA punição/restrição (print de notificação de bloqueio do
+Instagram), não de sucesso alheio — mostra que o mecanismo (prova
+verificável > afirmação) funciona tanto pra credibilidade positiva quanto
+pra alerta/aviso. **2ª variação confirmada** em `lluizalins-heineken-
+antipaparazzi.md`: print de uma ação/post oficial de MARCA (não de pessoa),
+usado como reveal central do vídeo. **3ª variação — "prova
+bibliográfica/científica"** em `brasiljumbos-larvas-olho-peixe.md`: print de
+artigo/estudo real (ResearchGate/SciELO) em vez de prova social de
+seguidores — mesmo princípio (verificável > afirmação), aplicado a
+conteúdo técnico/científico. Aplicação direta pro jurídico: print de
+decisão real do TST/TRT, ou de artigo de lei, funciona pelo mesmo mecanismo.
 
 ### P13 — Tese/conteúdo sozinho sustenta vídeo sem produção nenhuma
-(confirmado: **5 vídeos, 4 criadores**)
+(confirmado: **6 vídeos, 5 criadores**)
 O vídeo lo-fi de 2:49 do Leandro Ladeira (mulheres no digital), o do Jun Yuh
 (metacognição, "não é QI"), o "STAY ALIVEEEE" do Lipe Alive (intenção x
 impacto, 5,3M views), o "saldo de salário" da Fernanda Perita (1º exemplo
-puramente técnico-jurídico) e o "chuva de reels" do Sou Marco Ribeiro
+puramente técnico-jurídico), o "chuva de reels" do Sou Marco Ribeiro e a
+"língua do pirarucu" do Brasil Jumbos (novo criador, conteúdo de biologia)
 compartilham a mesma estrutura nativa: **corrente lógica única e contínua,
 sem blocos nem pontas soltas** (ver "Estruturas nativas identificadas").
 Alguns abrem contrariando uma crença popular específica; outros só
@@ -590,7 +642,7 @@ acima e ainda assim performar bem, ou seguir o padrão e performar mal.)*
 - P8 (estrutura espelhada) e P10 (fechar no emocional) — P8 já confirmado em
   2 criadores diferentes (ver acima); P10 ainda só 1 vídeo, continua em
   aberto.
-- **[RESOLVIDO em grande parte]**: dos 41 vídeos, agora **11 são do nicho
+- **[RESOLVIDO em grande parte]**: dos 48 vídeos, agora **11 são do nicho
   jurídico/adjacente**, espalhados por **6 criadores diferentes** — Maycon
   Cardoso (2), Alexandre Ferreira (2), Barbara Campolina (2), Dra. Henriette
   (1), Fernanda Perita/perícia de cálculos (2), João da CLT (2). Deixou de
