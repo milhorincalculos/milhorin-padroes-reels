@@ -838,6 +838,14 @@ necessários pra reclamação trabalhista, ou checklist de direitos na
 demissão — pensado pra ser salvo/consultado
 depois, não pra prender atenção com suspense.
 
+**Técnica de produção confirmada (post de maior conversão, "Atalhos"):** o
+presenter foi gravado em **fundo verde (chroma key)** e composto sobre o
+card da tabela — é o mesmo fluxo de "REACT (fundo verde)" já documentado em
+`milhorin-lofi-viral`, só que aplicado a um card de referência em vez de a
+uma reação de conteúdo de terceiro. Ou seja, P24 pode ser produzido
+reaproveitando o fluxo de gravação REACT já existente, sem precisar de um
+cenário real com gráfico sobreposto por cima.
+
 **Reforço adicional via "teste inverso" (não é contraexemplo — ver seção
 abaixo pra distinção):** o vídeo próprio "Top 5 profissões que ganham
 dinheiro com cálculos" (Milhorin) fez exatamente o OPOSTO de P24 — um
