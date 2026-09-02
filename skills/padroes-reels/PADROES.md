@@ -211,7 +211,11 @@ concluir que é só questão de distribuição.
   inteira (46 saves, 16 follows) — separar o conteúdo do vídeo parece
   prejudicar a conversão. Recomendação: o mesmo conteúdo funcionaria melhor
   como roteiro falado (corte-explicativo ou card estático) que como legenda
-  isolada.
+  isolada. **Confirmado num 2º criador** (`engmariele-bim5d-nao-e-futuro.md`,
+  Eng. de Custos/BIM 5D, fora do nicho jurídico) — mesmo mecanismo (gancho
+  curto + "leia a legenda"), reforçando que é um padrão real de produção,
+  não coincidência — mas sem dado de performance disponível pra esse 2º
+  exemplo, a ressalva de baixa eficiência ainda vem só do dado da Milhorin.
 - **"Consultoria grátis"**: encenação de "ler uma pergunta real no
   celular", variante de `caixinha-de-pergunta` (P11/P21) com nome de marca
   próprio — mesmo mecanismo, rótulo diferente.
@@ -294,7 +298,7 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
 | `caixinha-de-pergunta` | **3** (Maycon Cardoso × 2 — post #256 "recusa cômica" P11, post #255 "resposta direta+humor negro" — e **Alexandre Ferreira × 1**, variante séria sem humor) | **Confirmado com um 2º criador** — o mecanismo P21 (resposta direta + objeção antecipada) funciona igual sem humor. 3 dos vídeos deste formato/mecanismo estão entre os de maior view do nicho jurídico da base |
 | `tutorial/passo-a-passo` | 1 (Bruno Belíssimo/como ficar invisível na internet) | Lista de ações concretas, cada uma com prova visual (print/objeto real) |
 | `notícia/newsjacking` | **4** (Bruno Belíssimo/IA apagando as estrelas, Alexandre Ferreira/escala 6x1, Barbara Campolina × 2 — panela e amamentação) | Caso real nomeado e verificável, prova instrumentada. **Confirmado com 2 criadores do nicho jurídico** — deixa de ser peculiaridade de fora do nicho |
-| `sem-fala-música` (card estático de lista/texto) | **3** (Fernanda Perita/glossário perícia, João da CLT × 2 — 5 conselhos, conselho do advogado) | Ver P24 — conteúdo inteiro visível já no frame 1, sem revelação progressiva, sem CTA. Confirmado com 2 criadores do nicho jurídico |
+| `sem-fala-música` (card estático de lista/texto) | **7** (Fernanda Perita, João da CLT × 2, Milhorin (próprio) × 2, Hashtag Treinamentos, Me Poupe!) | Ver P24 — conteúdo inteiro visível já no frame 1, sem revelação progressiva, sem CTA. Confirmado em 3 nichos diferentes (jurídico, Excel/BI, finanças pessoais) — um dos padrões mais robustos e cross-nicho da base |
 | `sem-fala-música` (outros mecanismos) | 4 (Eduardo Waga/Claude perícia, Maria Eduarda SV/reaction-dump, Me Poupe!/meme-template estático, e o "aviso/PSA" do Sou Marco Ribeiro tem locução mas cabe na família) | Grupo heterogêneo — reaction-dump editado no beat, vinheta repetitiva sem arco, meme-template legenda-dependente — cada um com estrutura nativa própria, ainda 1 exemplo cada |
 | `corte de podcast` | 2 (Me Poupe!/"pobre consciente", Sou Marco Ribeiro/"chuva de reels") | "Pobre consciente" mostra artefato de corte editorial (promessa de lista numerada que entrega só o 1º item); "chuva de reels" reforça P13/P4 |
 | `lo-fi` (aviso/PSA de bastidor) | 1 (Sou Marco Ribeiro/"limite de 400") | Variação nova de lo-fi: aviso sério sobre punição/restrição da própria plataforma, prova real (P12) em vez de tese argumentativa |
@@ -518,7 +522,7 @@ Estruturas de 1 exemplo só até agora — monitorar antes de virar padrão nume
 - **"Prova em loop sem narração + pergunta sem solução"** (`barbaracampolina-panela.md`, notícia): possivelmente correlacionado com o menor desempenho da criadora nesta leva — vídeo sem CTA nem fechamento.
 - **"Reaction-dump editado no beat"** (`mariaeduardasv-dar-motivo-julgar.md`): colagem de reações de terceiros cortada no ritmo da música, zero argumento verbal.
 - **"Promessa de lista numerada que entrega só o 1º item"** (`mepoupenaweb-pobre-consciente.md`): provável artefato de corte de podcast longo — promete "5 dicas", desenvolve só 1, termina abrupto. Vale testar se isso prejudica ou não a retenção antes de evitar como erro.
-- **"Meme-template estático, legenda-dependente"** (`mepoupenaweb-pouquinho-por-dia.md`): plano único de 12s, texto fixo do início ao fim, a piada só fecha combinando vídeo+legenda do post — zero argumento, mais extremo que P13.
+- **"Meme-template estático, legenda-dependente"** (`mepoupenaweb-pouquinho-por-dia.md`): plano único de 12s, texto fixo do início ao fim, a piada só fecha combinando vídeo+legenda do post — zero argumento, mais extremo que P13. **Confirmado num 2º nicho** (`hashtagtreinamentos-chefe-passa-do-lado.md`, Excel/BI) — mesmo mecanismo (áudio de trend viral + legenda fixa, zero produção original), reforça que é um formato de baixíssimo custo replicável em qualquer nicho.
 - **"Persona-switch via figurino"** (`rafabri7o-vini-celular.md`, meme): troca de figurino no mesmo plano-sequência cria 2 personagens reagindo entre si, com quebra de 4ª parede — variação do arco cômico de 3 partes com um mecanismo de comédia diferente.
 - **"Texto de contexto permanente"** (`rafabri7o-carro-pai.md`): o texto de abertura fica fixo na tela o vídeo inteiro (não só nos primeiros segundos), cobrindo um momento real até a revelação emocional — reforça o mecanismo de revelação emocional já visto em Jun Yuh/Hanah Franklin.
 - **"Aviso/PSA de bastidor"** (`soumarcoribeiro-limite-400.md`): selfie sobre gravação de tela real (notificação de punição da plataforma) repetida 3x, sem CTA de ação — variação de P12 (ver acima).
@@ -810,7 +814,8 @@ debate genuíno, não por concordância. Fonte: relatório
 `brunobelissimo-robocop-robos.md`.
 
 ### P24 — Card estático de lista/texto: conteúdo inteiro já visível no
-frame 1, sem revelação progressiva (confirmado: **3 vídeos, 2 criadores**)
+frame 1, sem revelação progressiva (confirmado: **7 vídeos, 6 criadores,
+3 nichos diferentes — um dos padrões mais robustos da base inteira**)
 Em vez de revelar informação aos poucos (blocos, pontas soltas), o vídeo
 mostra a lista/texto COMPLETO desde o primeiro frame, parado ou quase
 parado sobre um b-roll simples — não há suspense nem progressão, o valor
@@ -820,10 +825,17 @@ pericia.md` (7 termos técnicos, todos visíveis de uma vez) e em **2 vídeos
 do mesmo outro criador** — `joaodaclt-5-conselhos-clt.md` (tom pragmático)
 e `joaodaclt-conselho-advogado.md` (tom emocional/confessional, mesmo
 mecanismo estrutural com registro totalmente diferente) — o que confirma
-que a estrutura pertence ao FORMATO, não ao tom de quem fala. Nenhum dos 3
-tem CTA. Aplicação direta pro nicho jurídico: um "card" com prazo
-prescricional, lista de documentos necessários pra reclamação trabalhista,
-ou checklist de direitos na demissão — pensado pra ser salvo/consultado
+que a estrutura pertence ao FORMATO, não ao tom de quem fala. **Confirmado
+também no conteúdo próprio da Milhorin** (`milhorin-proprio-atalhos-horas-
+extras.md`, o post de maior conversão em seguidor de toda a conta, e
+`milhorin-proprio-planilha-horas-extras-2023.md`, gravação de tela real, não
+card gráfico) — e agora **em mais 2 nichos totalmente diferentes**:
+`hashtagtreinamentos-excel-maiuscula.md` (Excel/BI, planilha real gravada
+em tela) e `mepoupenaweb-investimento-1-milhao.md` (finanças pessoais,
+tabela de valores por idade). Nenhum desses tem CTA. Aplicação direta pro
+nicho jurídico: um "card" com prazo prescricional, lista de documentos
+necessários pra reclamação trabalhista, ou checklist de direitos na
+demissão — pensado pra ser salvo/consultado
 depois, não pra prender atenção com suspense.
 
 **Reforço adicional via "teste inverso" (não é contraexemplo — ver seção
