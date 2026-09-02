@@ -814,29 +814,41 @@ debate genuíno, não por concordância. Fonte: relatório
 `brunobelissimo-robocop-robos.md`.
 
 ### P24 — Card estático de lista/texto: conteúdo inteiro já visível no
-frame 1, sem revelação progressiva (confirmado: **7 vídeos, 6 criadores,
-3 nichos diferentes — um dos padrões mais robustos da base inteira**)
+frame 1, sem revelação progressiva (confirmado: **6 vídeos, 5 criadores,
+2 nichos diferentes — um dos padrões mais robustos da base inteira**)
 Em vez de revelar informação aos poucos (blocos, pontas soltas), o vídeo
 mostra a lista/texto COMPLETO desde o primeiro frame, parado ou quase
 parado sobre um b-roll simples — não há suspense nem progressão, o valor
 é 100% de consulta/referência (o tipo de vídeo que se salva pra reler, não
-que se assiste prendendo atenção). Confirmado em `fernandaperita-glossario-
-pericia.md` (7 termos técnicos, todos visíveis de uma vez) e em **2 vídeos
-do mesmo outro criador** — `joaodaclt-5-conselhos-clt.md` (tom pragmático)
-e `joaodaclt-conselho-advogado.md` (tom emocional/confessional, mesmo
-mecanismo estrutural com registro totalmente diferente) — o que confirma
-que a estrutura pertence ao FORMATO, não ao tom de quem fala. **Confirmado
-também no conteúdo próprio da Milhorin** (`milhorin-proprio-atalhos-horas-
-extras.md`, o post de maior conversão em seguidor de toda a conta, e
-`milhorin-proprio-planilha-horas-extras-2023.md`, gravação de tela real, não
-card gráfico) — e agora **em mais 2 nichos totalmente diferentes**:
-`hashtagtreinamentos-excel-maiuscula.md` (Excel/BI, planilha real gravada
-em tela) e `mepoupenaweb-investimento-1-milhao.md` (finanças pessoais,
-tabela de valores por idade). Nenhum desses tem CTA. Aplicação direta pro
-nicho jurídico: um "card" com prazo prescricional, lista de documentos
+que se assiste prendendo atenção). **Critério que define o padrão: o
+CONTEÚDO/DADO fica estático — o cenário/b-roll de fundo PODE se mover**
+(ver exemplo abaixo). Confirmado em `fernandaperita-glossario-
+pericia.md` (7 termos técnicos, todos visíveis de uma vez, com b-roll de
+fundo mudando de plano) e em **2 vídeos do mesmo outro criador** —
+`joaodaclt-5-conselhos-clt.md` (tom pragmático) e `joaodaclt-conselho-
+advogado.md` (tom emocional/confessional, mesmo mecanismo estrutural com
+registro totalmente diferente) — o que confirma que a estrutura pertence
+ao FORMATO, não ao tom de quem fala. **Confirmado também no conteúdo
+próprio da Milhorin** (`milhorin-proprio-atalhos-horas-extras.md`, o post
+de maior conversão em seguidor de toda a conta, e `milhorin-proprio-
+planilha-horas-extras-2023.md`, gravação de tela real, não card gráfico)
+— e num nicho totalmente diferente: `mepoupenaweb-investimento-1-milhao.md`
+(finanças pessoais, tabela de valores por idade, com b-roll desfocado de
+uma pessoa andando atrás — mesma prova de que fundo em movimento não
+desqualifica P24). Nenhum desses tem CTA. Aplicação direta pro nicho
+jurídico: um "card" com prazo prescricional, lista de documentos
 necessários pra reclamação trabalhista, ou checklist de direitos na
-demissão — pensado pra ser salvo/consultado
-depois, não pra prender atenção com suspense.
+demissão — pensado pra ser salvo/consultado depois, não pra prender
+atenção com suspense.
+
+**Cuidado de categorização (erro já cometido e corrigido)**: um vídeo de
+Excel (`hashtagtreinamentos-excel-maiuscula.md`) foi inicialmente
+catalogado aqui por engano — nele as CÉLULAS da planilha mudam de valor em
+tempo real conforme a fórmula é aplicada, ou seja, o conteúdo/dado se
+revela progressivamente. Isso é "demonstração ao vivo" (ver abaixo), não
+P24. **O teste certo**: se o dado/texto principal em si muda durante o
+vídeo, é demonstração ao vivo; se o cenário de fundo se move mas o
+dado/texto fica igual do início ao fim, é P24.
 
 **Técnica de produção confirmada (post de maior conversão, "Atalhos"):** o
 presenter foi gravado em **fundo verde (chroma key)** e composto sobre o
