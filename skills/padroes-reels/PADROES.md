@@ -269,6 +269,14 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
   4. **Comentário pra lista de espera/desafio** — criador oferece algo (curso,
      desafio) e usa o comentário como captura de interesse; visto 2x com o
      mesmo criador (jun_yuh), número de espera citado subindo entre vídeos.
+     **Variação confirmada (2026-09-04, `lucureau-ganchos-virais-
+     reutilizar.md`)**: comentar uma PALAVRA-CHAVE específica (não comentário
+     livre) pra receber material extra via DM automatizado — evidência real
+     de que funciona: 6.614 comentários contra 4.586 curtidas no mesmo
+     vídeo (proporção invertida do normal). A palavra-chave, por ser
+     temática, também funciona como filtro de quem tem interesse real no
+     assunto — mesma lógica da sugestão de CTA por palavra-chave já
+     validada na skill `milhorin-fura-bolha`.
   5. **Link na bio** — tráfego direto pra oferta paga; costuma vir depois de
      uma crítica construtiva ao conteúdo analisado.
   6. **Comentário de opinião/indicação** — pede a opinião/indicação de quem
@@ -282,6 +290,12 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
 - Fonte original: framework de referência do usuário, confirmado como responsável
   por >20 mil seguidores novos, funcionando tanto em vídeos curtos quanto em
   vídeos acima de 10 minutos.
+- **Possível origem/confirmação externa (2026-09-04)**: o vídeo
+  `lucureau-estrutura-perfeita-framework.md` ensina, com os mesmos termos e
+  na mesma ordem, essencialmente este framework — não dá pra afirmar se foi
+  a fonte original ou uma confirmação independente/convergente, mas vale
+  citar como referência externa de quem também ensina essa estrutura, ao
+  lado da fonte original do usuário.
 
 ## Formatos observados até agora (48 vídeos analisados)
 
@@ -416,7 +430,24 @@ vídeo "ideias inimagináveis" do Leandro Ladeira (6 exemplos acelerando) e
 no "pega a senha" do Lipe Alive (tempo de resposta → contagem de "k"s →
 "vamos marcar" sem data). Reforça P4 (números empilhados) com uma técnica
 de ENTREGA mais específica — a aceleração/especificidade crescente é o que
-sustenta o ritmo, não só a quantidade de exemplos.
+sustenta o ritmo, não só a quantidade de exemplos. **3ª confirmação
+(2026-09-04)**: `lucureau-se-voce-quer-precisa.md` ("Se você quer... você
+precisa...", 6 pares) — com uma técnica de CTA nova dentro do padrão:
+**CTA disfarçado de último item da mesma lista** — o convite pra seguir
+usa a IDÊNTICA estrutura de frase dos itens anteriores ("se você quer
+[resultado], você precisa [seguir/fazer X]"), em vez de soar como um
+pedido separado no fim. Reduz o atrito de "agora vem a propaganda"
+porque o CTA nunca troca de registro.
+
+**Achado relacionado, não numerado ainda (2026-09-04, `lucureau-5-ganchos-
+psicologia.md`)**: mistura P4 (números empilhados) e P23 (bloco-lista
+acelerada) com dois elementos que não estavam catalogados — **prova
+externa de terceiros com métrica sobreposta** (cada técnica citada vem com
+um clipe real de OUTRO criador aplicando ela, view count visível na tela,
+em vez de só descrever) e **contador físico como progress bar** (caixinhas
+físicas num pote marcando quantos itens já foram mostrados). Fecha com um
+twist meta: revela que o próprio vídeo já usou uma das técnicas citadas
+logo na abertura. Aguardando 2ª confirmação antes de virar padrão numerado.
 
 ### Estrutura nativa — Hanah Franklin (3 vídeos: 2 análise de criador + 1 storytelling pessoal)
 
@@ -430,6 +461,22 @@ aparece também um recurso de **objeção antecipada e resposta com prova
 pessoal** dentro de um bloco. Fit com Framework #1: parcial nos dois — falta
 ponta solta/suspense (o formato não precisa de mistério, o valor já é
 entregue direto) e o bloco de credenciais é um elemento extra não previsto.
+
+**Variação do bloco inicial quando o analisado é controverso (2026-09-04,
+`lucureau-megabrain-thiago-finch.md`)**: em vez de bloco de credenciais
+(que soaria como validar a pessoa), a criadora abre com um **disclaimer de
+escopo/neutralidade** ("não é sobre concordar com tudo que ele fala, é
+sobre o que dá pra aprender de estratégia") — mesma função estrutural
+(situar o espectador antes dos princípios), mecanismo de conteúdo
+diferente conforme o analisado ser consensual ou polêmico. Também reforça
+P21 (objeção antecipada) fora do formato caixinha-de-pergunta, confirmando
+que é técnica de mecanismo, não de formato específico. **Reforço adicional
+do formato como categoria** (não como padrão numerado novo):
+`lucureau-holy-burger-estrategias.md` — 6 princípios extraídos de um case
+real, cada um autocontido (nome → mecanismo real → generalização "aplique
+no seu negócio"), sem blocos de suspense — mais uma confirmação de que
+"análise de criador" já está bem coberta pela skill `milhorin-analise-
+criador`, sem precisar de padrão numerado extra.
 
 **Storytelling pessoal** (tatuagem): arco in medias res → meta pública →
 complicação (hater) → confissão de vulnerabilidade → 3 pares antes/depois
@@ -850,6 +897,24 @@ P24. **O teste certo**: se o dado/texto principal em si muda durante o
 vídeo, é demonstração ao vivo; se o cenário de fundo se move mas o
 dado/texto fica igual do início ao fim, é P24.
 
+**Reforço grande do teste acima (lote de 13 vídeos, 2026-09-04, majoritariamente @lucureau)**:
+5 vídeos confirmaram "demonstração ao vivo" em formatos visuais bem
+diferentes entre si, todos com o dado/matriz mudando de verdade, não só o
+cenário — evidência de que é mecanismo cross-formato, não só cross-nicho:
+`lucureau-30-razoes-carrossel.md` (lista numerada 1-30 vazia, preenchida
+célula por célula em tempo real conforme a fala avança), `lucureau-
+rankeando-formatos.md` (tier list bidimensional formato×nota, mesma
+mecânica, 2ª confirmação da mesma criadora — parece assinatura de
+produção dela), `lucureau-hierarquia-tipos-gancho.md` (placar/ranking com
+o destaque migrando de categoria em categoria), `lucureau-perfil-ao-
+vivo.md` (mockup de perfil do Instagram preenchido campo a campo, split-
+screen com talking-head) e `lucureau-7-ajustes-ocultos.md` (checklist 1-7
+com itens borrados que só revelam nitidamente quando a fala chega neles,
+cada um cortando pra gravação de tela real). Reforça o alerta: um
+checklist/lista/matriz numerada visível desde o frame 1 NÃO é
+automaticamente P24 — sempre checar se o conteúdo de cada célula está
+pronto desde o início ou se revela/nitidamente aparece ao longo do vídeo.
+
 **Técnica de produção confirmada (post de maior conversão, "Atalhos"):** o
 presenter foi gravado em **fundo verde (chroma key)** e composto sobre o
 card da tabela — é o mesmo fluxo de "REACT (fundo verde)" já documentado em
@@ -871,6 +936,22 @@ especificamente em sustentar atenção até o dado mais forte, que veio tarde
 demais. Isso é evidência A FAVOR de P24 (fazer o oposto piorou o
 resultado), não uma exceção a ele. Fonte:
 `2026-08-28-milhorin-proprio-top5-profissoes-diagnostico.md`.
+
+### P25 — "3 níveis do mesmo criador": a própria pessoa clonada por faixa de
+resultado, respondendo à mesma pergunta com sofisticação crescente
+(confirmado: **1 vídeo, candidato, aguardando 2ª confirmação**)
+`lucureau-tres-niveis-seguidores.md` (896 x 10K x 100K seguidores): a
+criadora aparece 3 vezes em split-screen/composição, cada versão rotulada
+por um nível diferente de resultado (aqui, faixa de seguidores), todas
+respondendo à MESMA pergunta, com a resposta ficando mais sofisticada a
+cada nível — não é antes/depois sequencial (isso já é P8/Achado #4), é
+justaposição simultânea de 3 estágios. Maior engajamento absoluto do lote
+de 13 vídeos analisado em 2026-09-04 (35,8K curtidas). Aplicação direta
+pro jurídico: "calculista iniciante x calculista intermediário x
+calculista avançado" respondendo a mesma dúvida técnica, ou "advogado sem
+calculista x com calculista comum x com a Milhorin". **Cuidado de
+produção**: o vídeo original usa logos reais de marcas terceiras (ex.
+Motorola) nos ícones de cada nível — ao adaptar, usar ícones genéricos.
 
 ## Contraexemplos / exceções
 
