@@ -422,6 +422,17 @@ mantida até o fim. Fonte: `lipealive-procure-nutri.md`. Monitorar mais
 exemplos antes de generalizar, mas o tamanho do view count justifica
 registrar já.
 
+**Possível variação sem o gatilho de autoridade falsa (2026-09-04)**:
+`lucureau-quem-voce-atraindo.md` reforça o MECANISMO central de P22 (cara
+séria/neutra do início ao fim, sem sinalizar piada, virada de ironia só na
+frase final) mas SEM abrir com autoridade emprestada — o vídeo começa
+direto no primeiro "conselho" (é também um exemplo de P26, ver acima), sem
+alegar nenhuma fonte de autoridade especial. Isso sugere que "autoridade
+falsa" pode não ser um requisito estrito do mecanismo, só um tipo comum de
+abertura pra ele. Manter P22 como está (ainda só 1 exemplo pleno) até
+aparecer um 3º vídeo — aí decidir se generaliza a definição ou se vira 2
+padrões próximos.
+
 ### P23 — "Bloco-lista acelerada": mini-exemplos seriais com intensidade
 crescente dentro de um único bloco (confirmado: 2 vídeos, 2 criadores)
 Em vez de 1 exemplo só, empilhar 3+ mini-exemplos da mesma categoria dentro
@@ -954,7 +965,8 @@ produção**: o vídeo original usa logos reais de marcas terceiras (ex.
 Motorola) nos ícones de cada nível — ao adaptar, usar ícones genéricos.
 
 ### P26 — "Gancho seco": zero gancho separado, o vídeo começa DENTRO do
-conteúdo (confirmado: **2 vídeos, 1 criadora**)
+conteúdo (confirmado: **6 vídeos, 1 criadora — quase uma assinatura pessoal
+dela, mecanismo continua genuinamente replicável por qualquer um)**
 Diferente do Framework #1 (que empilha 4 ganchos — textual, auditivo,
 visual, falado — antes de uma introdução, e só depois entra no conteúdo),
 aqui não existe abertura separada nenhuma: não há card de capa/gancho
@@ -976,6 +988,33 @@ nenhuma — gancho e conteúdo são a mesma coisa desde o frame 1. Aplicação
 pro jurídico: em vez de "Você sabia que...", ir direto pra "Se o seu cálculo
 de horas extras não bateu, o erro mais comum é X" — a correção/informação
 já é a primeira frase, sem provocação antes dela.
+
+**Mais 4 confirmações (2026-09-04, mesma criadora)**: `lucureau-ranking-
+ferramentas-bom-ruim-excelente.md` (rótulo "Excelente/Bom/Ruim" já completo
+no frame 1, 1ª frase falada "Bom, ruim, excelente" já é o próprio veredito);
+`lucureau-melhores-formas-gravar.md` (1ª frase já entrega a instrução
+completa, cadeia condicional "se você quer X, grave assim" sem promessa
+aberta); `lucureau-flopado-vs-viral.md` (1ª frase já é o primeiro item do
+contraste); `lucureau-quem-voce-atraindo.md` (1ª frase já é o primeiro
+conselho, sem introdução nenhuma — ver também nota em P22 abaixo, esse
+vídeo reforça os dois padrões ao mesmo tempo). **Caso de fronteira, não
+contado nas confirmações**: `lucureau-8-formatos-prova-real.md` tem
+abertura perfeitamente P26 (1ª frase já é o 1º item do catálogo), mas o
+FECHAMENTO diverge — traz uma promessa/conclusão elaborada antes do CTA
+("você pode pegar um único tema e transformar em nove formatos
+diferentes"), o que P26 puro não tem. Vale tratar como "P26 só na
+abertura" em vez de aplicação completa.
+
+**Achado relacionado, combinando dois padrões (2026-09-04,
+`lucureau-flopado-vs-viral.md`)**: "checklist bicolor contrastivo
+preenchido ao vivo" — duas colunas (vermelha "flopado" / amarela "viral")
+com barras vazias que enchem SIMULTANEAMENTE ao longo do vídeo, cada par
+mostrando o erro e o acerto lado a lado pro mesmo tópico. É a família
+"demonstração ao vivo" (conteúdo revela progressivamente, não fica
+estático) cruzada com P8 (estrutura espelhada) — só que ao mesmo tempo, não
+em sequência antes/depois. Aplicação direta pro jurídico: "erro comum x
+prática correta" no cálculo trabalhista, enchendo os dois lados juntos
+conforme cada exemplo é dito.
 
 ## Contraexemplos / exceções
 
