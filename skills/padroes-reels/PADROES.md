@@ -953,6 +953,30 @@ calculista x com calculista comum x com a Milhorin". **Cuidado de
 produção**: o vídeo original usa logos reais de marcas terceiras (ex.
 Motorola) nos ícones de cada nível — ao adaptar, usar ícones genéricos.
 
+### P26 — "Gancho seco": zero gancho separado, o vídeo começa DENTRO do
+conteúdo (confirmado: **2 vídeos, 1 criadora**)
+Diferente do Framework #1 (que empilha 4 ganchos — textual, auditivo,
+visual, falado — antes de uma introdução, e só depois entra no conteúdo),
+aqui não existe abertura separada nenhuma: não há card de capa/gancho
+textual isolado (ou ele existe só como rótulo do que já está sendo dito, não
+como provocação separada), e a primeira frase falada JÁ é o primeiro pedaço
+de conteúdo real — não uma promessa ou provocação sobre o que vem depois.
+Confirmado em `lucureau-diagnostico-metricas.md` ("nenhum título/capa — o
+texto aparece já junto com a fala, funcionando como rótulo do quadro, não
+como gancho separado"; a frase 1, "Se o seu conteúdo tem poucas views, ele
+não teve uma boa retenção", já É o diagnóstico, não uma promessa de
+diagnóstico) e `lucureau-perfil-ao-vivo.md` ("nenhum card de abertura...
+entra direto na correção, sem preâmbulo" — a frase 1, "Aqui deveria estar a
+sua foto...", já é a correção em si). Nos dois casos o fechamento também é
+enxuto (CTA simples ou nenhum) — a densidade de valor por segundo é o motor
+de retenção, não o suspense do gancho. **Diferença de P13**: P13 também tem
+zero produção, mas ainda tem uma corrente argumentativa com abertura
+reconhecível (uma tese sendo apresentada); aqui não existe FASE de abertura
+nenhuma — gancho e conteúdo são a mesma coisa desde o frame 1. Aplicação
+pro jurídico: em vez de "Você sabia que...", ir direto pra "Se o seu cálculo
+de horas extras não bateu, o erro mais comum é X" — a correção/informação
+já é a primeira frase, sem provocação antes dela.
+
 ## Contraexemplos / exceções
 
 **Definição:** um contraexemplo de verdade é um caso que DESAFIA um padrão
