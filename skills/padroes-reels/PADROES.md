@@ -965,8 +965,8 @@ produção**: o vídeo original usa logos reais de marcas terceiras (ex.
 Motorola) nos ícones de cada nível — ao adaptar, usar ícones genéricos.
 
 ### P26 — "Gancho seco": zero gancho separado, o vídeo começa DENTRO do
-conteúdo (confirmado: **6 vídeos, 1 criadora — quase uma assinatura pessoal
-dela, mecanismo continua genuinamente replicável por qualquer um)**
+conteúdo (confirmado: **7 vídeos, 2 criadoras — deixou de ser assinatura
+pessoal, confirmado cross-criador/cross-idioma/cross-nicho**)
 Diferente do Framework #1 (que empilha 4 ganchos — textual, auditivo,
 visual, falado — antes de uma introdução, e só depois entra no conteúdo),
 aqui não existe abertura separada nenhuma: não há card de capa/gancho
@@ -1004,6 +1004,18 @@ FECHAMENTO diverge — traz uma promessa/conclusão elaborada antes do CTA
 ("você pode pegar um único tema e transformar em nove formatos
 diferentes"), o que P26 puro não tem. Vale tratar como "P26 só na
 abertura" em vez de aplicação completa.
+
+**1ª confirmação fora da @lucureau (2026-09-04)**:
+`ameliagonzamonte-watch-time-diagnostico.md` — criadora diferente, idioma
+diferente (inglês), nicho diferente (marketing de conteúdo, não criação de
+conteúdo em si), mesmo mecanismo: a primeira frase falada já é o
+diagnóstico real, sem card de abertura separado. Isso tira o padrão da
+categoria "possível assinatura pessoal" e confirma que é mecanismo
+genuinamente cross-criador. **Variação de fechamento não vista antes**:
+este vídeo fecha com CTA FALADO de curiosidade apontando pra legenda do
+post (não com CTA de seguir nem com fechamento mudo) — os exemplos
+anteriores de P26 sempre fechavam sem CTA ou com CTA de seguir direto;
+esta é uma 3ª opção de fechamento válida dentro do padrão.
 
 **Achado relacionado, combinando dois padrões (2026-09-04,
 `lucureau-flopado-vs-viral.md`)**: "checklist bicolor contrastivo
