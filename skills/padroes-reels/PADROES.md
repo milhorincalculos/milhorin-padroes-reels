@@ -114,7 +114,10 @@ taxas absolutas da conta inteira, no mesmo patamar do card de "Atalhos"
 (2025) que é uma peça de design elaborada. Confirma que o princípio do P24
 (referência estruturada, quase toda visível de uma vez, sem suspense) é o
 que importa — não a produção. Também confirma que esse padrão é **estável
-há pelo menos 2 anos** na conta, não é tendência recente.
+há pelo menos 2 anos** na conta, não é tendência recente. **[ver Achado
+#16]** produção não trava P24, mas distribuição pra fora da base de
+seguidores pode travar mesmo neste formato — as duas coisas são
+independentes.
 
 ### Achado #9 — `caixinha-de-pergunta` (P11/P21) é o 3º melhor formato de
 conversão em seguidor da própria conta ("Consultoria grátis", 0,106%) —
@@ -233,6 +236,28 @@ Atualiza a recomendação do Achado #13: **não é mais preciso "testar com
 mais volume" pra confirmar a hipótese de distribuição — já confirmado**;
 o próximo passo é decidir critério de quais fura-bolha impulsionar (ver
 acima) em vez de só publicar mais e esperar o orgânico resolver sozinho.
+
+### Achado #16 — card estático "DSR Simplificado" reforça P24 de novo, e
+mostra que mesmo P24 pode ficar preso à base de seguidores
+Mais um card estático de referência (fórmula + fundamento legal + súmulas
+do DSR) confirma o padrão: salvamento (2,16%, 205 de 9.507 views) acima de
+curtida (2,07%) — assinatura clássica de conteúdo-referência, mesma lógica
+do "Fórmula das Horas Extras" (3,4%) e do "Verba x Multiplicador" (4,9%),
+aqui numa taxa intermediária. Comentário quase zero (0,01%, 1 comentário)
+— confirma de novo que referência pura gera salvar, não conversa.
+**Achado novo**: **91,2% das views vieram de seguidores** (8.951 de
+"página inicial", só 305 "de outra pessoa" e 251 do perfil) — diferente do
+"Fórmula das Horas Extras" (impulsionado, 71,8% não-seguidor) e do "Verba
+x Multiplicador" (orgânico, 39,4% não-seguidor). **Isso mostra que P24 por
+si só não garante alcance pra fora da base** — o Achado #12/#15 já tinha
+isolado esse gargalo de distribuição pra fura-bolha/notícia, mas aqui
+aparece no formato que mais converte da conta inteira. Reforça o Achado #8
+pelo lado da distribuição: produção/design não é o que trava P24, mas o
+algoritmo decidir testar contra público frio também não é automático nem
+pra esse formato vencedor — ele só resolve se alguém decidir impulsionar,
+igual foi feito no Achado #15. Perfil: 42 visitas, 4 seguidores novos, 3
+toques em link externo — conversão de perfil modesta, mesmo padrão já
+visto ("referência converte em salvar, não em seguir").
 
 ### Novos candidatos de padrão desta leva (1 exemplo cada, monitorar)
 - **"Card físico deslizante + pergunta aberta no fechamento"** (verba
