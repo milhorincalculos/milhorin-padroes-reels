@@ -177,7 +177,11 @@ usou suspense/countdown que não sustentou. **Conclusão prática**: vale
 continuar investindo em fura-bolha bem estruturado — o gargalo atual
 parece ser de distribuição/algoritmo, testável só com mais volume (ver
 recomendação no relatório do Casas Bahia: publicar mais 2-3 fura-bolha
-parecidos e comparar a fonte de views de cada um).
+parecidos e comparar a fonte de views de cada um). **[ATUALIZADO — ver
+Achado #15]** essa hipótese foi confirmada por outro caminho antes mesmo
+de publicar os 2-3 vídeos novos: impulsionar esse mesmo vídeo destravou o
+alcance sem mudar o roteiro, e o engajamento continuou ótimo em escala
+maior.
 
 ### Achado #14 — 3º teste de topo de funil (Grupo H, "IA não substitui o
 calculista"): confirma um padrão de retenção ~20% em TODOS os 3 testes
@@ -198,6 +202,37 @@ diferente do que vídeos técnicos mais curtos (30-90s) já demonstraram (ex:
 o card de atalhos, 48s, converteu excelente). Recomendação: testar uma
 versão de 60-90s do mesmo tipo de gancho de topo de funil antes de
 concluir que é só questão de distribuição.
+
+### Achado #15 — impulsionamento do vídeo do Achado #12 (Casas Bahia)
+confirma: o gargalo era distribuição, não conteúdo
+Mesmo roteiro, mesma peça, agora rodando como anúncio pago (~3 semanas,
+25/ago a meados de set/2026). Resultado real (Instagram Insights,
+14/09/2026): **100.002 views (recorde da conta), 63.037 visualizadores,
+15 seguidores novos**, e **as 6 taxas de engajamento continuam todas "mais
+alta"** (curtidas 7,9%, comentários 1,1%, salvamentos 0,7%,
+compartilhamentos 0,4%, repost 0,4%) — vs. curtidas 5,7%/comentários
+1,3%/salvamentos 0,5%/compartilhamentos 0,4%/repost 0,2% na versão só
+orgânica (2.357 views) citada no Achado #12. Retenção continua batendo o
+teto estrutural do Achado #14 (51,7% aos 4s → 20% aos 48s → 4,6% no final,
+2:27 de duração — tempo médio ~20% de novo), então **o teto de retenção
+de vídeos 2min+ não impediu o resultado recorde** quando a distribuição
+foi comprada em vez de esperada do orgânico. **Conclusão prática**: fura-
+bolha que já confirma engajamento acima do típico da conta mesmo com
+alcance orgânico baixo é bom candidato a impulsionamento — o gargalo real
+nesses casos é elegibilidade de recomendação do algoritmo (conteúdo
+tocando em notícia/demissão em massa/empresa nomeada provavelmente cai em
+classificador de "tema social", que a Meta despriorizada por padrão pra
+quem não segue a conta), não qualidade do roteiro. Roteiro planejado
+comparado linha a linha com a transcrição real: entrega quase idêntica ao
+planejado, incluindo os marcadores de voz do Mário (`milhorin-core-
+strategy`) e o CTA de engajamento ("toca duas vezes e curte") posicionado
+exatamente no pico de tensão da Ponte — só 1 divergência encontrada ("ela
+vira **alvo**" no roteiro virou "ela vira **algo**" na entrega, possível
+flub de gravação ou erro de transcrição, a confirmar no áudio original).
+Atualiza a recomendação do Achado #13: **não é mais preciso "testar com
+mais volume" pra confirmar a hipótese de distribuição — já confirmado**;
+o próximo passo é decidir critério de quais fura-bolha impulsionar (ver
+acima) em vez de só publicar mais e esperar o orgânico resolver sozinho.
 
 ### Novos candidatos de padrão desta leva (1 exemplo cada, monitorar)
 - **"Card físico deslizante + pergunta aberta no fechamento"** (verba
