@@ -316,10 +316,11 @@ views) e "Verba x Multiplicador" (DdHdEIpRDiq, 5.880 views) **seguem
 confirmadamente sem impulsionamento** (Mário, 2026-09-14) — então o
 Achado #16 (que usa exatamente esses dois como contraste "impulsionado vs.
 orgânico") está correto como está. Isso também dá um teto orgânico real e
-recente pra calibrar: mesmo o melhor conteúdo orgânico atual da conta
-(Verba x Multiplicador, engajamento excelente em todas as taxas) não
-passou de ~5.880 views sem ajuda de mídia — bate com o teto de 5-10k que
-o Mário descreveu.
+recente pra calibrar. **[ATUALIZADO — ver Achado #18]** o teto subiu pra
+**12.759 views** com "As verbas que você precisa aprender" (2026-09-15,
+também confirmado sem impulsionamento) — segue no mesmo raio do 5-10k que
+o Mário descreveu, mas mostra que o teto não é rígido, varia por peça
+dentro dessa faixa.
 
 **Implicação prática**: a "hipótese de gargalo de distribuição" que vinha
 sendo tratada como algo a investigar nos Achados #12/#13/#15/#16 não é
@@ -330,6 +331,33 @@ gerenciada da conta (por isso a rotina de sexta existe). O próximo passo
 documento já tem material pra isso: formato (P24 primeiro, por Achado
 #1/#2), e dentro do fura-bolha, priorizar peças que já mostraram
 engajamento acima do típico da conta mesmo com alcance baixo (Achado #15).
+
+### Achado #18 — "As verbas que você precisa aprender" é o novo recorde de
+alcance orgânico confirmado, e o 3º card/checklist (P24) seguido a liderar
+salvamento
+Card estático em formato checklist progressivo (4 fórmulas revelando uma
+de cada vez: Décimo Terceiro, Horas Extras, Adicional de Insalubridade,
+Adicional Noturno), 5,7s, sem narração — mesma família de "Fórmula das
+Horas Extras" (Achado #1/#16) e "Verba x Multiplicador" (Achado #16).
+Resultado (2026-09-15, **confirmado sem impulsionamento**): 12.759 views
+(novo teto orgânico, ver correção no Achado #17), 6.801 visualizadores,
+salvamento 4,4% (315), curtida 5,6%, compartilhamento 1,4%, e **46,0% de
+não-seguidor** — a melhor fatia de não-seguidor já vista num post
+confirmadamente orgânico do lote atual (vs. 39,4% do Verba x
+Multiplicador). Retenção 58,2% aos 3s, caindo a ~40% no final (0:05) —
+tempo médio de visualização (6,9s) **maior que a duração total do vídeo**
+(5,7s), sinal de replay/loop, que provavelmente ajuda a explicar o alcance
+pra fora da base sem ajuda de mídia. **Ponto de atenção**: taxa de reels
+pulados 47,3%, marcada "mais alta" (pior que o típico da conta) — quase
+metade descarta o vídeo no primeiro instante, então o gancho textual
+("As verbas que você precisa aprender") ainda tem espaço pra ficar mais
+específico; quem para, porém, converte excepcionalmente bem. **Confirma
+com uma 3ª peça independente que o card/checklist de referência (P24) é
+hoje o único formato da conta que repetidamente rompe a barreira de
+não-seguidor por conta própria, sem impulsionamento** — reforça a
+recomendação já registrada no Achado #17 de priorizar esse formato como
+prioridade de produção orgânica, com impulsionamento reservado pra outros
+formatos que precisam da ajuda (fura-bolha, Achado #15).
 
 ### Novos candidatos de padrão desta leva (1 exemplo cada, monitorar)
 - **"Card físico deslizante + pergunta aberta no fechamento"** (verba
