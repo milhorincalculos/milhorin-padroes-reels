@@ -359,6 +359,66 @@ recomendação já registrada no Achado #17 de priorizar esse formato como
 prioridade de produção orgânica, com impulsionamento reservado pra outros
 formatos que precisam da ajuda (fura-bolha, Achado #15).
 
+### Achado #19 — conteúdo de CÁLCULO ESPECÍFICO bate conteúdo de
+NEGÓCIO/PROSPECÇÃO/MINDSET por 5x na média e até 60x nos extremos de
+salvamento (27 Reels impulsionados analisados, 2026-09-16)
+Levantamento comparativo entre 27 Reels pagos (reach>5k) do export de
+16/09/2025-15/09/2026, divididos por TEMA (não por formato):
+
+**Conteúdo de cálculo** (fórmula de verba específica, "como calcular X",
+demonstração com números reais ou simulados) — 16 vídeos, salvamento
+entre **0,20% e 1,85%**, média ~0,85%. Inclui formatos variados: card
+estático (adicional noturno 1,85%; ATALHOS 1,08%; férias+1/3 0,91%; Lei
+14.905/juros 0,76%), narrado (atalhos falado 1,57%), demonstração ao vivo
+(adicional noturno em planilha 1,14%; horas extras caso real 0,76%;
+aviso prévio 0,68%; sentença real 0,67%; 13º simulado 0,20%), diálogo
+Fred/Mário sobre um caso técnico (0,69%), "fórmula geral" explicando a
+lógica por trás de qualquer verba (0,56%).
+
+**Conteúdo de negócio/prospecção/mindset** (dicas de venda, prospecção,
+produtividade do calculista, projeção de mercado, diálogo sobre
+IA/estratégia, resposta a comentários) — 11 vídeos, salvamento entre
+**0,03% e 0,53%** (exceto 1 exceção com CTA de comentário-pra-DM
+prometendo documento real, que foge do padrão puxando pra cima), média
+~0,15-0,2%. Isso inclui técnicas já catalogadas como boas (analogia P2 —
+pesca/prospecção passiva x ativa, 0,04%; prova social P12 — "CCA", 0,08%)
+que mesmo bem executadas não salvam, porque **o tema, não a técnica de
+execução, é o que decide se algo vira referência a guardar**.
+
+**Por que isso importa**: refina os Achados #1/#2/#8 (P24) e o próprio
+princípio Informante vs Influenciador de `milhorin-lofi-viral` — a
+diferença de salvamento não está em "é referência ou é narrativa", está
+em **"o assunto é uma ferramenta de trabalho (fórmula, cálculo, dado
+técnico) ou é conselho/motivação/prospecção"**. Isso vale através de
+TODOS os formatos (card, narrado, demonstração, diálogo) — o tema pesa
+mais que o formato escolhido pra entregá-lo.
+
+**Recomendação prática**: ao decidir o que impulsionar visando
+salvamento/referência, priorizar peças de cálculo de verba específica
+independente do formato de produção; conteúdo de negócio/prospecção deve
+ser avaliado por OUTRA métrica (comentário, debate, posicionamento de
+autoridade — Achado #11), nunca por salvamento.
+
+### Achado #20 — confirmações secundárias desta leva
+1. **"Sentença real" > "exemplo simulado"** dentro do mesmo formato de
+   demonstração: `DSHzAnjkdU3` (sentença real, nomes redigidos, valores
+   reais) fez 0,67% de salvamento e **1,47% de seguidor — o melhor de
+   toda a leva de 27 vídeos** — contra `DRemTpQkcZa` (13º de horista com
+   dado simulado, "vamos fazer uma simulação"), que fez só 0,20% de
+   salvamento e 0,036% de seguidor. Terceira confirmação independente
+   (agora com dado de dez/2025) do Achado #2/#3: caso real + demonstração
+   ao vivo é o formato mais forte pra conversão em seguidor da conta,
+   através de 3 períodos históricos diferentes.
+2. **O pilar "atalhos/lista de multiplicadores" já apareceu em pelo menos
+   7 variações** confirmadas nesta base: card estático 6,6s (Fórmula das
+   Horas Extras), card estático 4s (ATALHOS), narrado 48s (`DWBkJ0jBI20`),
+   checklist progressivo 2x (Verba x Multiplicador; As verbas que você
+   precisa aprender), lista narrada com saída de tela (`DVyHWEoBG1u`,
+   Saldo de Salário), e a versão explicativa do "porquê" de um
+   multiplicador específico (FGTS+multa, `DR4WT2SkZu4`). É o conteúdo
+   mais reciclado e mais consistentemente bem avaliado da conta — todas
+   as variações performam bem, nenhuma falhou.
+
 ### Novos candidatos de padrão desta leva (1 exemplo cada, monitorar)
 - **"Card físico deslizante + pergunta aberta no fechamento"** (verba
   salarial x indenizatória): tiras de papel reais deslizando pra dentro de
