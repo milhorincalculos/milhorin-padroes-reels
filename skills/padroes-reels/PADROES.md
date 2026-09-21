@@ -29,7 +29,22 @@ com a audiência real da marca. **Sempre que um padrão desta seção confirmar
 ou contradizer um padrão catalogado a partir de terceiros, isso pesa mais
 que qualquer outro achado do documento.**
 
-### 14 posts próprios já analisados frame a frame
+> ⚠️ **CORREÇÃO IMPORTANTE (2026-09-14, ver Achado #17)**: todo post
+> publicado passa por uma rotina semanal (toda sexta-feira) de
+> impulsionamento pago, criada justamente pra compensar o alcance orgânico
+> baixo da conta (raramente acima de 5-10 mil, segundo o Mário). **Os 14
+> posts da tabela abaixo, e portanto os Achados #1-#3, #5-#9, #11 que
+> derivam dela, refletem desempenho JÁ COM impulsionamento** — não são
+> medida de potencial de viralização orgânica. A hierarquia de formato
+> continua válida como "o que converte melhor quando impulsionado" (decisão
+> real e útil: em que formato vale investir o orçamento de mídia), mas não
+> é evidência de que algum desses formatos viraliza sozinho. Até hoje, o
+> único caso documentado nesta base com medição pré- e pós-impulsionamento
+> lado a lado é o Casas Bahia (Achado #12 = antes, só 2.357 views
+> orgânicas; Achado #15 = depois, 100 mil) — é a melhor referência de
+> quanto o pago está fazendo o trabalho pesado.
+
+### 14 posts próprios já analisados frame a frame (números pós-impulsionamento — ver aviso acima)
 
 | Post | Views | Alcance | Salvamentos | Seguidores novos | Formato |
 |---|---|---|---|---|---|
@@ -52,25 +67,32 @@ que qualquer outro achado do documento.**
 período — usar Alcance. `**` conversão real provavelmente maior que 0 via
 DM (CTA de comentário-pra-lead) — ver Achado #10.
 
-### Achado #1 — P24 confirmado como o formato de MAIOR conversão em seguidor de toda a conta
+### Achado #1 — P24 confirmado como o formato de MAIOR conversão em seguidor de toda a conta (com impulsionamento — ver aviso acima)
 O card estático de lista (ver P24, catalogado a partir de Fernanda Perita e
 João da CLT) é EXATAMENTE o formato do post que mais converteu seguidor em
 toda a história da conta (29.261 seguidores, taxa de 1,4% — a 2ª colocada
 fica em 0,9%). Isso deixa de ser hipótese "aplicável ao nicho jurídico" e
 vira **confirmação de primeira mão, com o melhor resultado real da própria
-marca**. Prioridade máxima de produção: mais cards de atalho/referência
-cobrindo outras verbas.
+marca** — **dentro do universo de posts impulsionados**, já que é isso que
+a tabela mede. Continua sendo a decisão certa de "em que formato investir
+o orçamento de mídia", só não é prova de que o formato viraliza sem ajuda.
+Prioridade máxima de produção: mais cards de atalho/referência cobrindo
+outras verbas.
 
-### Achado #2 — hierarquia de conversão por formato (desta amostra de 5 vídeos)
+### Achado #2 — hierarquia de conversão por formato, COM impulsionamento (desta amostra de 5 vídeos)
 Card estático (P24) > caso real + demonstração ao vivo > demonstração
-manuscrita ao vivo > talking-head puro, em taxa de conversão de seguidor.
-**Alcance bruto não prevê conversão**: o vídeo de MAIOR alcance da conta
-("Adicional Noturno", 2,47M) converteu 38x menos que o card de atalhos em
-taxa de seguidor, apesar de alcance comparável. Views/alcance sozinhos são
-vaidade — salvamento e seguidor são os sinais que importam.
+manuscrita ao vivo > talking-head puro, em taxa de conversão de seguidor —
+**todos impulsionados** (ver aviso no topo da seção), então isto é uma
+hierarquia de "o que compensa melhor o investimento em mídia paga", não de
+potencial de alcance orgânico. **Alcance bruto não prevê conversão**: o
+vídeo de MAIOR alcance da conta ("Adicional Noturno", 2,47M) converteu 38x
+menos que o card de atalhos em taxa de seguidor, apesar de alcance
+comparável (e apesar dos dois terem recebido impulsionamento). Views/
+alcance sozinhos são vaidade — salvamento e seguidor são os sinais que
+importam, impulsionado ou não.
 
 ### Achado #3 — "Caso real + demonstração ao vivo no PJe-Calc" é o 2º melhor
-conversor, e é o mecanismo mais alinhado ao produto da própria marca:
+conversor (com impulsionamento — ver aviso acima), e é o mecanismo mais alinhado ao produto da própria marca:
 mostra uma sentença real (nomes redigidos por privacidade), extrai os
 números reais do caso, e resolve ao vivo na ferramenta que a Milhorin
 ensina a usar. Isso confirma, com dado próprio, a hipótese já registrada em
@@ -92,7 +114,7 @@ igualmente bem aplicada a processo jurídico técnico, na própria voz da
 marca — deixa de ser só uma inferência de "isso deveria funcionar aqui
 também" e vira confirmação direta.
 
-### Achado #6 — carrossel pode ser o formato certo pra conteúdo de referência
+### Achado #6 — carrossel pode ser o formato certo pra conteúdo de referência (com impulsionamento — ver aviso acima)
 Os 2 carrosséis analisados (Lei 14.905, receita de bolo) têm as 2 maiores
 taxas de salvamento da conta inteira (1,77% e 1,51%), mesmo com alcance bem
 menor que os vídeos. Junto com o card estático (P24, que é vídeo), sugere
@@ -100,24 +122,27 @@ que **formato de referência/consulta favorece salvamento** independente de
 ser vídeo ou carrossel — o que importa é a promessa de "volte aqui quando
 precisar", não o formato de mídia em si.
 
-### Achado #7 — "demonstração manuscrita ao vivo" confirmada 2x, formato estável
+### Achado #7 — "demonstração manuscrita ao vivo" confirmada 2x, formato estável (com impulsionamento — ver aviso acima)
 Além do "Adicional Noturno", o vídeo "hora-relógio → hora-decimal" usa o
 mesmo mecanismo (escrita progressiva numa folha) com desempenho parecido
 (bom alcance, conversão mediana — nem o pior nem o melhor da conta). É um
 formato replicável e consistente, mas reservar pra processo/passo-a-passo,
 não pra referência rápida (isso é papel do P24).
 
-### Achado #8 — P24 não depende de design gráfico, e é estável há 2+ anos
+### Achado #8 — P24 não depende de design gráfico, e é estável há 2+ anos (com impulsionamento — ver aviso acima)
 A planilha Excel de 2023 ("horas extras em 30s", gravação de tela simples,
 sem design) teve **0,79% de salvamento sobre o alcance** — uma das maiores
 taxas absolutas da conta inteira, no mesmo patamar do card de "Atalhos"
 (2025) que é uma peça de design elaborada. Confirma que o princípio do P24
 (referência estruturada, quase toda visível de uma vez, sem suspense) é o
 que importa — não a produção. Também confirma que esse padrão é **estável
-há pelo menos 2 anos** na conta, não é tendência recente.
+há pelo menos 2 anos** na conta, não é tendência recente. **[ver Achado
+#16]** produção não trava P24, mas distribuição pra fora da base de
+seguidores pode travar mesmo neste formato — as duas coisas são
+independentes.
 
 ### Achado #9 — `caixinha-de-pergunta` (P11/P21) é o 3º melhor formato de
-conversão em seguidor da própria conta ("Consultoria grátis", 0,106%) —
+conversão em seguidor da própria conta (com impulsionamento — ver aviso acima) ("Consultoria grátis", 0,106%) —
 atrás só do card estático e do caso-real-com-demonstração. Reforça
 diretamente a decisão de já ter criado a skill `milhorin-caixinha-pergunta`
 — não é só um padrão promissor de terceiro, já funciona de verdade aqui.
@@ -177,7 +202,11 @@ usou suspense/countdown que não sustentou. **Conclusão prática**: vale
 continuar investindo em fura-bolha bem estruturado — o gargalo atual
 parece ser de distribuição/algoritmo, testável só com mais volume (ver
 recomendação no relatório do Casas Bahia: publicar mais 2-3 fura-bolha
-parecidos e comparar a fonte de views de cada um).
+parecidos e comparar a fonte de views de cada um). **[ATUALIZADO — ver
+Achado #15]** essa hipótese foi confirmada por outro caminho antes mesmo
+de publicar os 2-3 vídeos novos: impulsionar esse mesmo vídeo destravou o
+alcance sem mudar o roteiro, e o engajamento continuou ótimo em escala
+maior.
 
 ### Achado #14 — 3º teste de topo de funil (Grupo H, "IA não substitui o
 calculista"): confirma um padrão de retenção ~20% em TODOS os 3 testes
@@ -198,6 +227,197 @@ diferente do que vídeos técnicos mais curtos (30-90s) já demonstraram (ex:
 o card de atalhos, 48s, converteu excelente). Recomendação: testar uma
 versão de 60-90s do mesmo tipo de gancho de topo de funil antes de
 concluir que é só questão de distribuição.
+
+### Achado #15 — impulsionamento do vídeo do Achado #12 (Casas Bahia)
+confirma: o gargalo era distribuição, não conteúdo
+Mesmo roteiro, mesma peça, agora rodando como anúncio pago (~3 semanas,
+25/ago a meados de set/2026). Resultado real (Instagram Insights,
+14/09/2026): **100.002 views (recorde da conta), 63.037 visualizadores,
+15 seguidores novos**, e **as 6 taxas de engajamento continuam todas "mais
+alta"** (curtidas 7,9%, comentários 1,1%, salvamentos 0,7%,
+compartilhamentos 0,4%, repost 0,4%) — vs. curtidas 5,7%/comentários
+1,3%/salvamentos 0,5%/compartilhamentos 0,4%/repost 0,2% na versão só
+orgânica (2.357 views) citada no Achado #12. Retenção continua batendo o
+teto estrutural do Achado #14 (51,7% aos 4s → 20% aos 48s → 4,6% no final,
+2:27 de duração — tempo médio ~20% de novo), então **o teto de retenção
+de vídeos 2min+ não impediu o resultado recorde** quando a distribuição
+foi comprada em vez de esperada do orgânico. **Conclusão prática**: fura-
+bolha que já confirma engajamento acima do típico da conta mesmo com
+alcance orgânico baixo é bom candidato a impulsionamento — o gargalo real
+nesses casos é elegibilidade de recomendação do algoritmo (conteúdo
+tocando em notícia/demissão em massa/empresa nomeada provavelmente cai em
+classificador de "tema social", que a Meta despriorizada por padrão pra
+quem não segue a conta), não qualidade do roteiro. Roteiro planejado
+comparado linha a linha com a transcrição real: entrega quase idêntica ao
+planejado, incluindo os marcadores de voz do Mário (`milhorin-core-
+strategy`) e o CTA de engajamento ("toca duas vezes e curte") posicionado
+exatamente no pico de tensão da Ponte — só 1 divergência encontrada ("ela
+vira **alvo**" no roteiro virou "ela vira **algo**" na entrega, possível
+flub de gravação ou erro de transcrição, a confirmar no áudio original).
+Atualiza a recomendação do Achado #13: **não é mais preciso "testar com
+mais volume" pra confirmar a hipótese de distribuição — já confirmado**;
+o próximo passo é decidir critério de quais fura-bolha impulsionar (ver
+acima) em vez de só publicar mais e esperar o orgânico resolver sozinho.
+
+### Achado #16 — card estático "DSR Simplificado" reforça P24 de novo, e
+mostra que mesmo P24 pode ficar preso à base de seguidores
+Mais um card estático de referência (fórmula + fundamento legal + súmulas
+do DSR) confirma o padrão: salvamento (2,16%, 205 de 9.507 views) acima de
+curtida (2,07%) — assinatura clássica de conteúdo-referência, mesma lógica
+do "Fórmula das Horas Extras" (3,4%) e do "Verba x Multiplicador" (4,9%),
+aqui numa taxa intermediária. Comentário quase zero (0,01%, 1 comentário)
+— confirma de novo que referência pura gera salvar, não conversa.
+**Achado novo**: **91,2% das views vieram de seguidores** (8.951 de
+"página inicial", só 305 "de outra pessoa" e 251 do perfil) — diferente do
+"Fórmula das Horas Extras" (impulsionado, 71,8% não-seguidor) e do "Verba
+x Multiplicador" (orgânico, 39,4% não-seguidor). **Isso mostra que P24 por
+si só não garante alcance pra fora da base** — o Achado #12/#15 já tinha
+isolado esse gargalo de distribuição pra fura-bolha/notícia, mas aqui
+aparece no formato que mais converte da conta inteira. Reforça o Achado #8
+pelo lado da distribuição: produção/design não é o que trava P24, mas o
+algoritmo decidir testar contra público frio também não é automático nem
+pra esse formato vencedor — ele só resolve se alguém decidir impulsionar,
+igual foi feito no Achado #15. Perfil: 42 visitas, 4 seguidores novos, 3
+toques em link externo — conversão de perfil modesta, mesmo padrão já
+visto ("referência converte em salvar, não em seguir").
+
+### Achado #17 — correção estrutural: a conta tem uma rotina semanal de
+impulsionamento pago que estava sem marcação nesta base, e isso muda como
+ler os Achados #1-#9
+O Mário confirmou (2026-09-14): **toda sexta-feira roda uma rotina de
+impulsionar o conteúdo já publicado**, criada justamente porque o alcance
+orgânico da conta **raramente passa de 5-10 mil**. Os 14 posts da tabela
+no topo desta seção — inclusive os dois maiores resultados históricos da
+conta ("Adicional Noturno", 3,1M views/recorde de alcance; "Atalhos pra
+calcular mais rápido", 2M views + 29.261 seguidores/recorde de conversão)
+— **foram todos distribuídos com mídia paga**, não são casos de
+viralização orgânica. Isso não invalida a hierarquia de formato dos
+Achados #1-#3/#5-#9 (P24 > caso real+demonstração > demonstração
+manuscrita > talking-head continua sendo o que melhor converte o
+investimento em mídia), mas troca o que essa hierarquia significa: é um
+guia de "onde vale colocar orçamento de anúncio", não prova de que algum
+desses formatos viraliza sozinho — e o texto desses achados foi ajustado
+pra deixar isso explícito.
+
+**Correção retroativa**: o vídeo "Qual o cálculo mais difícil?"
+(torneio eliminatório, Dcy4obwRAXP, diagnosticado em sessão anterior desta
+mesma conversa mas nunca registrado nesta base) também foi impulsionado,
+apesar de não ter vindo marcado como tal na ocasião — os 56.427 views já
+deveriam ter soado suspeitos por estarem 5-10x acima do teto orgânico
+agora confirmado. O diagnóstico de CONTEÚDO daquele vídeo
+(problema de gancho/retenção nos primeiros 3s, falta de camada
+influenciador) continua válido — isso é sobre o comportamento de quem foi
+alcançado, não sobre o alcance em si — mas o número de views não deve ser
+lido como "56 mil pessoas viram isso organicamente".
+
+**Contraponto confirmado, importante pra calibrar "o que é bom
+organicamente" daqui pra frente**: "Bate Bola Comigo" (DdHcWI3RhL7, 1.952
+views) e "Verba x Multiplicador" (DdHdEIpRDiq, 5.880 views) **seguem
+confirmadamente sem impulsionamento** (Mário, 2026-09-14) — então o
+Achado #16 (que usa exatamente esses dois como contraste "impulsionado vs.
+orgânico") está correto como está. Isso também dá um teto orgânico real e
+recente pra calibrar. **[ATUALIZADO — ver Achado #18]** o teto subiu pra
+**12.759 views** com "As verbas que você precisa aprender" (2026-09-15,
+também confirmado sem impulsionamento) — segue no mesmo raio do 5-10k que
+o Mário descreveu, mas mostra que o teto não é rígido, varia por peça
+dentro dessa faixa.
+
+**Implicação prática**: a "hipótese de gargalo de distribuição" que vinha
+sendo tratada como algo a investigar nos Achados #12/#13/#15/#16 não é
+mais uma hipótese em aberto — é a realidade operacional já conhecida e já
+gerenciada da conta (por isso a rotina de sexta existe). O próximo passo
+útil não é "testar mais pra confirmar que distribuição é o gargalo", é
+**definir critério explícito de o que priorizar pra impulsionar** — este
+documento já tem material pra isso: formato (P24 primeiro, por Achado
+#1/#2), e dentro do fura-bolha, priorizar peças que já mostraram
+engajamento acima do típico da conta mesmo com alcance baixo (Achado #15).
+
+### Achado #18 — "As verbas que você precisa aprender" é o novo recorde de
+alcance orgânico confirmado, e o 3º card/checklist (P24) seguido a liderar
+salvamento
+Card estático em formato checklist progressivo (4 fórmulas revelando uma
+de cada vez: Décimo Terceiro, Horas Extras, Adicional de Insalubridade,
+Adicional Noturno), 5,7s, sem narração — mesma família de "Fórmula das
+Horas Extras" (Achado #1/#16) e "Verba x Multiplicador" (Achado #16).
+Resultado (2026-09-15, **confirmado sem impulsionamento**): 12.759 views
+(novo teto orgânico, ver correção no Achado #17), 6.801 visualizadores,
+salvamento 4,4% (315), curtida 5,6%, compartilhamento 1,4%, e **46,0% de
+não-seguidor** — a melhor fatia de não-seguidor já vista num post
+confirmadamente orgânico do lote atual (vs. 39,4% do Verba x
+Multiplicador). Retenção 58,2% aos 3s, caindo a ~40% no final (0:05) —
+tempo médio de visualização (6,9s) **maior que a duração total do vídeo**
+(5,7s), sinal de replay/loop, que provavelmente ajuda a explicar o alcance
+pra fora da base sem ajuda de mídia. **Ponto de atenção**: taxa de reels
+pulados 47,3%, marcada "mais alta" (pior que o típico da conta) — quase
+metade descarta o vídeo no primeiro instante, então o gancho textual
+("As verbas que você precisa aprender") ainda tem espaço pra ficar mais
+específico; quem para, porém, converte excepcionalmente bem. **Confirma
+com uma 3ª peça independente que o card/checklist de referência (P24) é
+hoje o único formato da conta que repetidamente rompe a barreira de
+não-seguidor por conta própria, sem impulsionamento** — reforça a
+recomendação já registrada no Achado #17 de priorizar esse formato como
+prioridade de produção orgânica, com impulsionamento reservado pra outros
+formatos que precisam da ajuda (fura-bolha, Achado #15).
+
+### Achado #19 — conteúdo de CÁLCULO ESPECÍFICO bate conteúdo de
+NEGÓCIO/PROSPECÇÃO/MINDSET por 5x na média e até 60x nos extremos de
+salvamento (27 Reels impulsionados analisados, 2026-09-16)
+Levantamento comparativo entre 27 Reels pagos (reach>5k) do export de
+16/09/2025-15/09/2026, divididos por TEMA (não por formato):
+
+**Conteúdo de cálculo** (fórmula de verba específica, "como calcular X",
+demonstração com números reais ou simulados) — 16 vídeos, salvamento
+entre **0,20% e 1,85%**, média ~0,85%. Inclui formatos variados: card
+estático (adicional noturno 1,85%; ATALHOS 1,08%; férias+1/3 0,91%; Lei
+14.905/juros 0,76%), narrado (atalhos falado 1,57%), demonstração ao vivo
+(adicional noturno em planilha 1,14%; horas extras caso real 0,76%;
+aviso prévio 0,68%; sentença real 0,67%; 13º simulado 0,20%), diálogo
+Fred/Mário sobre um caso técnico (0,69%), "fórmula geral" explicando a
+lógica por trás de qualquer verba (0,56%).
+
+**Conteúdo de negócio/prospecção/mindset** (dicas de venda, prospecção,
+produtividade do calculista, projeção de mercado, diálogo sobre
+IA/estratégia, resposta a comentários) — 11 vídeos, salvamento entre
+**0,03% e 0,53%** (exceto 1 exceção com CTA de comentário-pra-DM
+prometendo documento real, que foge do padrão puxando pra cima), média
+~0,15-0,2%. Isso inclui técnicas já catalogadas como boas (analogia P2 —
+pesca/prospecção passiva x ativa, 0,04%; prova social P12 — "CCA", 0,08%)
+que mesmo bem executadas não salvam, porque **o tema, não a técnica de
+execução, é o que decide se algo vira referência a guardar**.
+
+**Por que isso importa**: refina os Achados #1/#2/#8 (P24) e o próprio
+princípio Informante vs Influenciador de `milhorin-lofi-viral` — a
+diferença de salvamento não está em "é referência ou é narrativa", está
+em **"o assunto é uma ferramenta de trabalho (fórmula, cálculo, dado
+técnico) ou é conselho/motivação/prospecção"**. Isso vale através de
+TODOS os formatos (card, narrado, demonstração, diálogo) — o tema pesa
+mais que o formato escolhido pra entregá-lo.
+
+**Recomendação prática**: ao decidir o que impulsionar visando
+salvamento/referência, priorizar peças de cálculo de verba específica
+independente do formato de produção; conteúdo de negócio/prospecção deve
+ser avaliado por OUTRA métrica (comentário, debate, posicionamento de
+autoridade — Achado #11), nunca por salvamento.
+
+### Achado #20 — confirmações secundárias desta leva
+1. **"Sentença real" > "exemplo simulado"** dentro do mesmo formato de
+   demonstração: `DSHzAnjkdU3` (sentença real, nomes redigidos, valores
+   reais) fez 0,67% de salvamento e **1,47% de seguidor — o melhor de
+   toda a leva de 27 vídeos** — contra `DRemTpQkcZa` (13º de horista com
+   dado simulado, "vamos fazer uma simulação"), que fez só 0,20% de
+   salvamento e 0,036% de seguidor. Terceira confirmação independente
+   (agora com dado de dez/2025) do Achado #2/#3: caso real + demonstração
+   ao vivo é o formato mais forte pra conversão em seguidor da conta,
+   através de 3 períodos históricos diferentes.
+2. **O pilar "atalhos/lista de multiplicadores" já apareceu em pelo menos
+   7 variações** confirmadas nesta base: card estático 6,6s (Fórmula das
+   Horas Extras), card estático 4s (ATALHOS), narrado 48s (`DWBkJ0jBI20`),
+   checklist progressivo 2x (Verba x Multiplicador; As verbas que você
+   precisa aprender), lista narrada com saída de tela (`DVyHWEoBG1u`,
+   Saldo de Salário), e a versão explicativa do "porquê" de um
+   multiplicador específico (FGTS+multa, `DR4WT2SkZu4`). É o conteúdo
+   mais reciclado e mais consistentemente bem avaliado da conta — todas
+   as variações performam bem, nenhuma falhou.
 
 ### Novos candidatos de padrão desta leva (1 exemplo cada, monitorar)
 - **"Card físico deslizante + pergunta aberta no fechamento"** (verba
