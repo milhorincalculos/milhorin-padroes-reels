@@ -310,7 +310,7 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
 | `meme` | **4** (Leandro Ladeira/IA face-swap, Dra. Henriette/"Socorro Jesus Amado", Eduardo Waga/"virei esse chefe", Rafa Bri7o/"Vini no celular") | Pelo menos 3 mecanismos distintos confirmados: reviravolta cômica (Leandro), "clipe-flagrante mudo" sem narração (Dra. Henriette), "legenda-piada sem reveal" com clipe de arquivo (Eduardo Waga), e "persona-switch via figurino" (Rafa Bri7o) |
 | `história com provas` | 1 (Leandro Ladeira/ideias inimagináveis) | História pessoal + lista de casos de terceiros, cada um com print de prova |
 | `caixinha-de-pergunta` | **3** (Maycon Cardoso × 2 — post #256 "recusa cômica" P11, post #255 "resposta direta+humor negro" — e **Alexandre Ferreira × 1**, variante séria sem humor) | **Confirmado com um 2º criador** — o mecanismo P21 (resposta direta + objeção antecipada) funciona igual sem humor. 3 dos vídeos deste formato/mecanismo estão entre os de maior view do nicho jurídico da base |
-| `tutorial/passo-a-passo` | 1 (Bruno Belíssimo/como ficar invisível na internet) | Lista de ações concretas, cada uma com prova visual (print/objeto real) |
+| `tutorial/passo-a-passo` | **3** (Bruno Belíssimo/como ficar invisível na internet, e 2 vídeos gringos — Jason Cooperson/ChatGPT transcript e Devin Jatho/alt-text hack) | Lista de ações concretas, cada uma com prova visual/gravação de tela real (P12). Confirmado 2x fora do nicho jurídico — lacuna de skill dedicada agora mais urgente |
 | `notícia/newsjacking` | **4** (Bruno Belíssimo/IA apagando as estrelas, Alexandre Ferreira/escala 6x1, Barbara Campolina × 2 — panela e amamentação) | Caso real nomeado e verificável, prova instrumentada. **Confirmado com 2 criadores do nicho jurídico** — deixa de ser peculiaridade de fora do nicho |
 | `sem-fala-música` (card estático de lista/texto) | **7** (Fernanda Perita, João da CLT × 2, Milhorin (próprio) × 2, Hashtag Treinamentos, Me Poupe!) | Ver P24 — conteúdo inteiro visível já no frame 1, sem revelação progressiva, sem CTA. Confirmado em 3 nichos diferentes (jurídico, Excel/BI, finanças pessoais) — um dos padrões mais robustos e cross-nicho da base |
 | `sem-fala-música` (outros mecanismos) | 4 (Eduardo Waga/Claude perícia, Maria Eduarda SV/reaction-dump, Me Poupe!/meme-template estático, e o "aviso/PSA" do Sou Marco Ribeiro tem locução mas cabe na família) | Grupo heterogêneo — reaction-dump editado no beat, vinheta repetitiva sem arco, meme-template legenda-dependente — cada um com estrutura nativa própria, ainda 1 exemplo cada |
@@ -663,7 +663,7 @@ se o formato já tinha skill mapeada, ou adicionar linha nova.
 | `meme` | nenhuma — só 1 exemplo, aguardar mais dados | Sequestro de trend + reviravolta via IA, muito dependente de ferramenta externa (face-swap) |
 | `história com provas` | `milhorin-fura-bolha` (parcial) | Escalada narrativa com prova bate com a estrutura de fura-bolha, mas fura-bolha hoje não instrui "print de prova de terceiro" explicitamente — possível ajuste em vez de skill nova |
 | `caixinha-de-pergunta + humor` | nenhuma — só 1 exemplo, aguardar mais dados | Único vídeo do nicho jurídico até agora (Maycon Cardoso) — aguardar mais exemplos do nicho antes de generalizar contra o framework completo (P11) |
-| `tutorial/passo-a-passo` | nenhuma — só 1 exemplo, aguardar mais dados | Lista de ações com prova visual cada uma — mais perto de `fura-bolha` (CTA de salvamento já catalogado) que dos outros 3 |
+| `tutorial/passo-a-passo` | nenhuma — **3 exemplos agora, prioridade real de skill nova** | Lista de ações com prova visual/gravação de tela real cada uma — mais perto de `fura-bolha` (CTA de salvamento já catalogado) que dos outros 3, mas já confirmado forte o bastante (2 vídeos gringos fora do nicho jurídico, 2026-09-20) pra deixar de ser "aguardar mais dados" |
 | `notícia/newsjacking` | nenhuma — só 1 exemplo, aguardar mais dados | Caso real nomeado + prova instrumentada |
 
 ## Padrões confirmados (por quantos vídeos)
@@ -1027,6 +1027,59 @@ estático) cruzada com P8 (estrutura espelhada) — só que ao mesmo tempo, não
 em sequência antes/depois. Aplicação direta pro jurídico: "erro comum x
 prática correta" no cálculo trabalhista, enchendo os dois lados juntos
 conforme cada exemplo é dito.
+
+### P27 — "Esquete solo POV de confronto": um único ator interpreta os dois
+lados de uma discussão, com o espectador posicionado como o antagonista da
+cena (confirmado: **3 vídeos, 1 criador — @bestgoat3/Karl Yombom, aguardando
+confirmação de outro criador**)
+O criador grava sozinho (às vezes com troca de figurino/personagem) uma
+cena de confronto — locador x inquilino, hospital x paciente — em que a
+CÂMERA/espectador ocupa o papel do lado "chato"/autoritário da cena (o
+locador, o hospital), e o criador (do lado do "espectador comum") vence
+cada rodada com uma recusa cômica (mesmo mecanismo do P11) que já entrega
+informação real a cada vez. Confirmado 3x com o mesmo criador em nichos
+diferentes (imóveis, saúde, day-to-day) — mecanismo robusto de produção
+baratíssima (1 pessoa, 1 celular, sem edição pesada). CTA de seguir muitas
+vezes embutido como fala de crédito dentro da própria ficção, não como
+pedido separado. Aplicação pro jurídico: "empresa x empregado" ou "perito x
+parte", com o espectador no lugar de quem tenta "enganar" e o calculista
+vencendo cada rodada com um fato técnico real.
+
+### P28 — "Lista fechada revelada em plano único contínuo": card/lista com
+todos os itens definidos de antemão, narrados um por um sem cortar cena
+nem mudar o cenário (confirmado: **2 vídeos, 2 criadores — Dr. Jeremy
+London/coisas que evito como cirurgião, Devin Jatho/hashtags estão
+mortas**)
+Diferente de P24 (card estático — o texto já está visível no frame 1) e de
+"demonstração ao vivo" (o dado muda/se revela progressivamente): aqui a
+LISTA é falada, item por item, num plano único sem corte de cena — o
+"revelar" é só verbal/de ritmo, não visual. Cada item costuma ter estrutura
+paralela (mesma construção de frase). Confirmado cross-criador e
+cross-nicho (cirurgia, marketing). Aplicação pro jurídico: "4 coisas que
+evito ao calcular horas extras" narrado em plano único, sem precisar de
+b-roll cortado.
+
+**Achados relacionados desta rodada (2026-09-20, lote de vídeos gringos de
+alto view count), ainda com 1 exemplo cada — registrar aqui, promover a
+padrão numerado se aparecer 2ª confirmação:**
+- **Contador de dinheiro sobreposto que escala ao longo do vídeo** (Jordan
+  Welch, venda de árvores de Natal) — substitui blocos/pontas soltas como
+  motor de retenção: o espectador assiste pra ver até onde o número vai
+  subir, não pra saber "o que vem depois".
+- **Lista sonora sem narração, com prova de áudio simultânea** (Houston
+  Kold, 6 efeitos sonoros, 8,4s) — zero fala, cada item citado por texto na
+  tela toca o próprio som citado como prova instantânea.
+- **Meme/reação de terceiro como pontuação cômica dentro de tutorial sério**
+  (Adam Palomeque) — diferente do "reaction-dump" já catalogado (que é só
+  colagem de reações, sem argumento); aqui o meme pontua um tutorial que
+  continua sério entre as inserções.
+- **Cutaways de meme/reação NÃO-literais sincronizados à fala** (Adam
+  Palomeque, side hustle) — variação de P1 (que exige ilustração literal da
+  palavra dita): aqui o corte rápido ilustra o TOM/humor da frase, não o
+  significado literal dela.
+- **Fechamento em citação/prova de terceiro em vez de CTA** (Ali Abdaal,
+  spotlight effect) — usa nome de pesquisador + achado acadêmico no lugar
+  de CTA, fazendo o papel que normalmente P4 faz com números.
 
 ## Contraexemplos / exceções
 
