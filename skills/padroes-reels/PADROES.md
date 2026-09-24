@@ -543,7 +543,11 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
      vídeo (proporção invertida do normal). A palavra-chave, por ser
      temática, também funciona como filtro de quem tem interesse real no
      assunto — mesma lógica da sugestão de CTA por palavra-chave já
-     validada na skill `milhorin-fura-bolha`.
+     validada na skill `milhorin-fura-bolha`. **Reforço (2026-09-24,
+     `lucureau-chatgpt-menos-ia.md`)**: comentar "CRUZADAS" pra receber
+     material — de novo proporção invertida (24.218 comentários contra
+     18.277 curtidas), confirmando pela 2ª vez que esse mecanismo gera mais
+     comentário que curtida, o oposto do padrão normal de engajamento.
   5. **Link na bio** — tráfego direto pra oferta paga; costuma vir depois de
      uma crítica construtiva ao conteúdo analisado.
   6. **Comentário de opinião/indicação** — pede a opinião/indicação de quem
@@ -572,7 +576,7 @@ Ganchismo → Promessa aberta → Introdução (0-10s) → Bloco 1 → Ponta sol
 | `editado` (storytelling fotográfico, sem voz) | 1 (Jun Yuh/pais divorciados) | 100% fotos de arquivo + texto, zero narração falada |
 | `editado` (poema narrado sobre b-roll) | 1 (Leandro Ladeira/casa dos sonhos) | Narração em tom literário, nunca olha pra câmera, zero talking-head |
 | `análise de criador` | **5** (Hanah Franklin × 2, Maria Eduarda SV × 1, **Joelson Madeira × 1** — split-screen, **Nathalia Arcuri × 1** — picture-in-picture) | Reage/disseca conteúdo de outro creator. **Confirmado agora com 4 criadores e 3 encenações distintas** — prints estáticos (Hanah/Maria Eduarda), split-screen com o clipe original rodando (Joelson), picture-in-picture (Nathalia) — deixou de ser peculiaridade de 1 pessoa, é formato genuinamente replicável com múltiplas variações válidas de execução |
-| `storytelling pessoal` (talking-head) | 2 (Jun Yuh/metacognição, Hanah Franklin/tatuagem) | Fala direto pra câmera, mistura teoria+vulnerabilidade pessoal |
+| `storytelling pessoal` (talking-head) | **3** (Jun Yuh/metacognição, Hanah Franklin/tatuagem, Hanah Franklin/"bloqueei 329 pessoas") | Fala direto pra câmera, mistura teoria+vulnerabilidade pessoal — prova visual real (print exato) reforça credibilidade instantânea no 3º exemplo |
 | `yap-content` | 4 (Leandro Ladeira/mulheres no digital + Lipe Alive × 3 — nutri, stay-alive, pega-a-senha) | Plano fixo/selfie, zero corte, zero produção. São os 3 vídeos de MAIOR view de toda a base (10M, 5,3M, 4,6M) — forte sinal de que este é o formato de maior ROI de atenção por esforço de produção da base inteira |
 | `meme` | **4** (Leandro Ladeira/IA face-swap, Dra. Henriette/"Socorro Jesus Amado", Eduardo Waga/"virei esse chefe", Rafa Bri7o/"Vini no celular") | Pelo menos 3 mecanismos distintos confirmados: reviravolta cômica (Leandro), "clipe-flagrante mudo" sem narração (Dra. Henriette), "legenda-piada sem reveal" com clipe de arquivo (Eduardo Waga), e "persona-switch via figurino" (Rafa Bri7o) |
 | `história com provas` | 1 (Leandro Ladeira/ideias inimagináveis) | História pessoal + lista de casos de terceiros, cada um com print de prova |
@@ -923,7 +927,7 @@ se o formato já tinha skill mapeada, ou adicionar linha nova.
 | `editado` (talking-head + b-roll, corte literal por palavra) | **nenhuma — candidata a skill nova** | Confirmado em 6 vídeos (P1), o mais confirmado da base. Gramática própria (corte a cada 1-3s ilustrando a palavra dita, analogia simples, prova numérica empilhada) — não é monólogo cru (`yap`), nem blocos lo-fi (`lofi-viral`), nem escalada de fura-bolha. Prioridade #1 de skill nova. |
 | `editado` (storytelling fotográfico, sem voz) | nenhuma — só 1 exemplo, aguardar mais dados | Fotos de arquivo + texto, zero narração — gramática de edição, não de fala |
 | `editado` (poema narrado sobre b-roll) | nenhuma — só 1 exemplo, aguardar mais dados | Narração literária sem talking-head |
-| `análise de criador` | `milhorin-analise-criador` (já criada) | **5 confirmações, 4 criadores, 3 encenações** — formato sistemático/repetível totalmente coberto pela skill já entregue (bloco de credenciais, princípios sem cliffhanger, crítica-vira-oferta) |
+| `análise de criador` | `milhorin-analise-criador` (já criada) | **6 confirmações, 5 criadores, 4 encenações** — formato sistemático/repetível totalmente coberto pela skill já entregue (bloco de credenciais, princípios sem cliffhanger, crítica-vira-oferta). **Nova variante (Hanah Franklin/Gabi Jacinto, 2026-09-24)**: clipe real tocando com UI genuína do Instagram (contadores de like/comentário reais na tela) como prova social emprestada, combinado com lista numerada em múltiplos cortes (não plano único) |
 | `storytelling pessoal` (talking-head) | `milhorin-yap-content` (parcial) | Mistura teoria+vulnerabilidade — yap cobre a encenação crua, mas não o arco emocional de fechamento (P10); avaliar se vale um bloco extra em `yap-content` em vez de skill nova |
 | `yap-content` (opinião longa / monólogo cru) | `milhorin-yap-content` / `milhorin-lofi-viral` | Já é o caso de uso central dessas duas skills — **agora com validação real forte**: os 3 vídeos do Lipe Alive (10M/5,3M/4,6M views) confirmam que este é o formato de maior alcance de toda a base, sem depender de produção nenhuma |
 | `caixinha-de-pergunta` (resposta direta, P21) | nenhuma direta — parcial em `milhorin-reel-diagnostico`/roteiro ad-hoc | O mecanismo P21 (objeção antecipada + resposta jurídica real + humor negro) é simples e replicável, mas nenhuma skill de produção atual gera esse formato especificamente — considerar se vale a pena depois de mais exemplos, já que os 2 vídeos deste formato estão entre os de maior view da base |
@@ -1217,19 +1221,27 @@ resultado), não uma exceção a ele. Fonte:
 
 ### P25 — "3 níveis do mesmo criador": a própria pessoa clonada por faixa de
 resultado, respondendo à mesma pergunta com sofisticação crescente
-(confirmado: **1 vídeo, candidato, aguardando 2ª confirmação**)
+(confirmado: **2 vídeos, mesmo criador — ainda não confirmado
+cross-criador**)
 `lucureau-tres-niveis-seguidores.md` (896 x 10K x 100K seguidores): a
 criadora aparece 3 vezes em split-screen/composição, cada versão rotulada
 por um nível diferente de resultado (aqui, faixa de seguidores), todas
 respondendo à MESMA pergunta, com a resposta ficando mais sofisticada a
 cada nível — não é antes/depois sequencial (isso já é P8/Achado #4), é
 justaposição simultânea de 3 estágios. Maior engajamento absoluto do lote
-de 13 vídeos analisado em 2026-09-04 (35,8K curtidas). Aplicação direta
-pro jurídico: "calculista iniciante x calculista intermediário x
-calculista avançado" respondendo a mesma dúvida técnica, ou "advogado sem
-calculista x com calculista comum x com a Milhorin". **Cuidado de
-produção**: o vídeo original usa logos reais de marcas terceiras (ex.
-Motorola) nos ícones de cada nível — ao adaptar, usar ícones genéricos.
+de 13 vídeos analisado em 2026-09-04 (35,8K curtidas). **2ª confirmação
+(2026-09-24)**: `lucureau-3-niveis-escolha-nicho.md` (mesma criadora,
+mesmo mecanismo, agora sobre escolha de nicho/hashtags/stories) — mas como
+é a MESMA criadora nas duas vezes, isso reforça que o mecanismo é
+replicável PARA ELA, não confirma ainda que funciona pra qualquer criador
+— continua precisando de um 3º exemplo de criador diferente antes de tratar
+como padrão totalmente cross-criador (mesmo cuidado já aplicado ao P26
+antes da confirmação da Amelia Gonzamonte). Aplicação direta pro jurídico:
+"calculista iniciante x calculista intermediário x calculista avançado"
+respondendo a mesma dúvida técnica, ou "advogado sem calculista x com
+calculista comum x com a Milhorin". **Cuidado de produção**: o vídeo
+original usa logos reais de marcas terceiras (ex. Motorola) nos ícones de
+cada nível — ao adaptar, usar ícones genéricos.
 
 ### P26 — "Gancho seco": zero gancho separado, o vídeo começa DENTRO do
 conteúdo (confirmado: **7 vídeos, 2 criadoras — deixou de ser assinatura
@@ -1347,6 +1359,23 @@ padrão numerado se aparecer 2ª confirmação:**
 - **Fechamento em citação/prova de terceiro em vez de CTA** (Ali Abdaal,
   spotlight effect) — usa nome de pesquisador + achado acadêmico no lugar
   de CTA, fazendo o papel que normalmente P4 faz com números.
+
+### P29 — "Gancho de continuidade/sequência": abre citando a performance de
+um vídeo anterior próprio, fecha retomando uma piada/referência específica
+desse mesmo vídeo (confirmado: **1 vídeo, candidato, aguardando 2ª
+confirmação**)
+`brunobelissimo-majorana2-quantico.md` (chip quântico Majorana 2,
+Microsoft) — o melhor resultado do lote de 2026-09-24 (22K curtidas, 382
+comentários): abre mencionando explicitamente como um vídeo anterior da
+própria conta performou, criando uma "série" implícita — quem já viu o
+anterior ganha contexto extra, quem não viu ainda entende o gancho sozinho
+— e fecha retomando uma piada específica daquele vídeo anterior como
+callback. Diferente de "análise de criador" (que reage a OUTRO criador) e
+do reaproveitamento de formato entre vídeos (que é editorial, não citado em
+tela) — aqui a continuidade é o próprio CONTEÚDO do gancho. Aplicação pro
+jurídico: um vídeo que abre citando "o último vídeo sobre X bombou, e teve
+gente que perguntou Y" antes de entrar no tema novo — cria motivo real pra
+quem já segue voltar a assistir, sem depender de gancho 100% novo toda vez.
 
 ## Contraexemplos / exceções
 
