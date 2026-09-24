@@ -450,6 +450,53 @@ em seguidor, e (a partir da 2ª rodada) relevância estratégica pro pilar de
 carreira do Mário mesmo com view count baixo. Vale expandir esta seção nas
 próximas rodadas.
 
+### Achado #21 — teste controlado de edição (mesmo roteiro, 3 execuções):
+a capa decide o skip rate sozinha
+Primeiro teste desta base com o roteiro 100% idêntico entre variações —
+só a edição mudou. 3 vídeos (`Ddo_gZ5NwdM`, `DdZDYjQxOF1`, `DdKBfsyRJhA`,
+2026-09-24), mesmo texto ("recorde de processos trabalhistas na Justiça do
+Trabalho"): taxa de reels pulados 33,7% / -- / **86,3%**; curtidas 2,6% /
+**11,2%** / 0,7%; compartilhamento 0,2% / 0,3% / 0,0%. Retenção aos 7s:
+51,8% / 42,0% / **9,2%**. Diferença visual encontrada assistindo os 3:
+- **V3 (86,3% de skip)** abre com print de matéria de jornal de terceiro
+  (manchete densa, marca desconhecida do seguidor) antes de cortar pro
+  talking-head, e usa print de dashboard/painel de sistema (com dropdown de
+  ano) pra mostrar o dado, em vez de gráfico próprio.
+- **V2 (melhor engajamento)** reforça os primeiros segundos com um mapa do
+  Brasil animado sobre o talking-head.
+- **V1 (meio-termo, melhor retenção)** é só talking-head + tabela própria
+  limpa (laranja/branco), sem reforço extra no gancho nem print de
+  terceiro.
+
+**Conclusão:** a capa/primeiro frame decide a taxa de skip independente do
+roteiro — um print de conteúdo alheio (por mais relevante que seja o tema)
+compete pior por atenção do que rosto humano ou gráfico próprio bem
+desenhado. Nunca abrir um vídeo com print de matéria/tela de terceiro sem
+que o talking-head ou um gráfico de marca própria apareça primeiro.
+
+### Achado #22 — mesmo no melhor caso, retenção cai pela metade em 7s:
+gancho é Grupo F disfarçado de Grupo H, crença nunca nomeada
+Mesmo o vídeo com melhor retenção do Achado #21 (V1) caiu de 100% pra
+51,8% já aos 7 segundos — muito mais rápido que o Casas Bahia (Achado #12,
+que segurou 50%+ por quase 40s). Causa identificada no próprio texto do
+gancho: *"Não é só advogado que vai lucrar com isso. O Brasil tá
+caminhando pra bater o maior número de processos trabalhistas..."* —
+corrige uma crença ("só advogado lucra com isso") sem nomeá-la
+explicitamente antes, o que é Grupo F (provocação) disfarçado de Grupo H
+(reversão) — exatamente o erro que o checklist do `fura-bolha` item 1 já
+avisava. Some a isso que o número hiper-específico (2.756.251) só chega no
+segundo 7 — tarde demais, porque é exatamente até esse ponto que metade da
+audiência já foi embora.
+
+**Achado de processo relacionado (mesmo dia):** identificado que o gancho
+"todo mundo acha que..." estava sendo reciclado literalmente em roteiro
+após roteiro, de temas diferentes — causa: é a única fórmula escrita nos
+exemplos de `milhorin-hooks` (Grupo H) e no checklist do `fura-bolha`. Os
+dois arquivos foram corrigidos pra listar formas alternativas de nomear a
+crença (pergunta retórica, afirmação categórica, cenário que já embute a
+crença, etc.) e instruir a variar a cada geração, em vez de reaproveitar a
+mesma frase-molde.
+
 ## Framework de referência #1 — "Ganchismo → Promessa → CTA"
 
 **Importante (correção de método):** este framework foi dado pelo usuário como
